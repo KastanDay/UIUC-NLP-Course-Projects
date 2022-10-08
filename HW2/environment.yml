@@ -1,0 +1,13 @@
+name: nlp
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - torchvision
+  - torchaudio
+  - cudatoolkit=11.6
+  - pytorch
+  - ipykernel
+  - numpy
+  
+prefix: /home/kastan/utils/miniconda3/envs/nlp
