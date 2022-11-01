@@ -1,0 +1,18 @@
+Why the dream of the flying car hasn’t panned out
+Thursday, December 31, 2015 07:34:03 GMT-05:00
+If you’re ever bothered by the blind spots in the typical car today, then you would hate to drive a flying car.
+But a new Toyota patent offers a solution to a classic flying car problem — awful blind spots and a vehicle that’s too wide for roads, parking spaces and garages.
+Flying cars are rare, but you can find a few in the wild. A handful of companies around the globe are developing them. A long list of challenges has held back flying cars since their initial creation almost a century ago. One problem is putting the wings on the side of the car, which blocks driver sight lines and makes the vehicle so wide that it’s difficult to park and drive on roads.
+Toyota’s patent calls for stackable wings on top of a flying car.
+“It’s a very innovative idea,” said Pete Schumacher, professor of aerodynamics at the University of North Dakota. “Will there be other problems? Yeah.”
+Stacking wings makes them less efficient. Wings work because the pressure is higher below than above them, which creates lift. But the high pressure beneath the top wing on Toyota’s patent will interfere with the desired low pressure below the second highest wing.
+“It’s incredibly inefficient,” said John Brown, a project manager at Carplane, a German company developing its own flying car. “And it may actually be too inefficient. You’d have to put it in a wind tunnel and see just how efficient it is.”
+Early planes such as the Wright Flyer had two wings. But as materials become stronger, the bi-wing approach was abandoned because of the efficiency advantages of a single wing.
+Toyota did not respond to requests for comment.
+While automakers such as Toyota are exploring new mobility services, car analysts don’t expect flying cars to be on the market anytime soon.
+“Flying cars are certainly an interesting concept, but are further away from realization than many of these concepts, for example autonomous vehicle sharing,” said Thilo Koslowski, an automobile analyst at Gartner, a technology research firm.
+Toyota has long invested in research and development. In November, it announced plans to invest $1 billion over five years in artificial intelligence, which could prove invaluable as autonomous vehicles arise. It’s also bet on hydrogen fuel-cell cars as an alternative to internal combustion engines and once invested in Tesla Motors. Additionally, Toyota has ventured into nontraditional businesses such as home building.
+There are other big challenges that would be issues for a flying car with wings on its roof. Melding two transportation forms — a car and a plane — creates problems.
+“When I started out I thought, ‘pretty simple problem, an automobile has an engine, an airplane has an engine. An automobile has a body, an airplane has a body,’ ” said K.P. Rice, a flying car developer and retired Marine pilot who has been devoted to the field for 35 years. “In the end, it gets to be quite a problem.”
+A car needs weight on its front and back wheels so that it can turn safely. But a plane needs its weight on its back wheels so it can take off and land safely.
+Aircraft engines are air cooled, so they can’t sit in traffic without overheating, whereas car engines are water cooled, which adds weight that’s prohibitive to flying.

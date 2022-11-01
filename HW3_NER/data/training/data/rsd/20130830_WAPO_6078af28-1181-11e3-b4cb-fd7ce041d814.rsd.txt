@@ -1,0 +1,13 @@
+Facebook facial recognition policy draws attention from German privacy regulator
+Friday, August 30, 2013 16:20:55 GMT-05:00
+Facebook proposed changes to two of its most important legal documents Thursday, and new language on how the networking site deals with facial recognition technology has already raised some eyebrows — including those of a German privacy regulator, according to a report from PC World .
+The social network had previously run into some resistance from European regulators who wanted it to be more explicit about how it uses such technology. Following recommendations from the Irish Data Protection Commission, the company then deleted all facial recognition data from European users from its servers.
+After Facebook disposed of the data, the Hamburg Commission for Data Protection and Freedom of Information dropped proceedings against the company asking it to obtain explicit consent from German Facebook users before using this kind of feature.
+So, the PC World report notes, German privacy regulators were surprised to see mention of facial recognition technology in the German version of the proposed policy Thursday.
+In fact, in a statement to PC World, Hamburg privacy commissioner Johannes Caspar said he was “astonished” to see Facebook mention the technology.
+Facebook declined to comment on the regulator’s statement, but spokeswoman Jodi Seth confirmed that facial recognition features are not currently being implemented in Europe.
+The changes in question make clear that Facebook is allowed to take users’ profile pictures into account when it offers suggestions about whom your friends should tag in their photos. In a statement to the Los Angeles Times, Facebook chief privacy officer Erin Egan said that she believes tagging actually improves user privacy, because it offers an automatic way for users to police which images of their faces are posted to the Web site.
+“The benefit in being tagged is that you know photos exist,” Egan told the newspaper Thursday.
+Those interested in seeing the changes Facebook is planning to make to its policies can view a list of them on its Web site. Users have seven days to provide suggestions and other input to the firm before the changes become official.
+(Washington Post Co. chairman and chief executive Donald E. Graham is a member of Facebook’s board of directors.)
+Follow The Post’s new tech blog, The Switch, where technology and policy connect.

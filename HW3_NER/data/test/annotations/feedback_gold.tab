@@ -1,0 +1,899 @@
+NIST	annotation-0	Administration	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:0-13	Administration	ORG;ORG.Government;ORG.Government.Administration	NOM	1.0
+NIST	annotation-1	Obama	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:114-118	Obama	PER;PER.Politician;PER.Politician.HeadOfGovernment	NAM	1.0
+NIST	annotation-2	administration	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:120-133	Administration	ORG;ORG.Government;ORG.Government.Administration	NOM	1.0
+NIST	annotation-3	it	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:149-150	Administration	ORG;ORG.Government;ORG.Government.Administration	PRO	1.0
+NIST	annotation-4	oil	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:191-193	heating oil	ConsumerGoods	NOM	1.0
+NIST	annotation-5	residents	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:286-294	residents	PER	NOM	1.0
+NIST	annotation-6	states	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:299-304	states hit	GPE;GPE.ProvinceState	NOM	1.0
+NIST	annotation-7	Department of Health and Human Services	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:343-381	HHS	ORG;ORG.Government;ORG.Government.Ministry	NAM	1.0
+NIST	annotation-8	states	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:481-486	states hit	GPE;GPE.ProvinceState	NOM	1.0
+NIST	annotation-9	propane	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:526-532	propane	ConsumerGoods	NOM	1.0
+NIST	annotation-10	country	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:627-633	US	GPE;GPE.Country	NOM	1.0
+NIST	annotation-11	propane	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:724-730	propane	ConsumerGoods	NOM	1.0
+NIST	annotation-12	Energy Information Administration	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:788-820	Energy Information Administration	ORG;ORG.Government;ORG.Government.Agency	NAM	1.0
+NIST	annotation-13	agency	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:892-897	Energy Information Administration	ORG;ORG.Government;ORG.Government.Agency	NOM	1.0
+NIST	annotation-14	Midwest	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:914-920	Midwest	LOC;LOC.Region	NAM	1.0
+NIST	annotation-15	Midwest	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:988-994	Midwest	LOC;LOC.Region	NAM	1.0
+NIST	annotation-16	Midwest	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:1061-1067	Midwest	LOC;LOC.Region	NAM	1.0
+NIST	annotation-17	consumers	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:1213-1221	consumers	PER	NOM	1.0
+NIST	annotation-18	propane	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:1234-1240	propane	ConsumerGoods	NOM	1.0
+NIST	annotation-19	governors	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:1280-1288	governors	PER;PER.Politician;PER.Politician.Governor	NOM	1.0
+NIST	annotation-20	states	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:1298-1303	many states	GPE;GPE.ProvinceState	NOM	1.0
+NIST	annotation-21	drivers	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:1358-1364	drivers	PER	NOM	1.0
+NIST	annotation-22	propane	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:1379-1385	propane	ConsumerGoods	NOM	1.0
+NIST	annotation-23	Drivers	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:1399-1405	drivers	PER	NOM	1.0
+NIST	annotation-24	propane	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:1416-1422	propane	ConsumerGoods	NAM	1.0
+NIST	annotation-25	states	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:1434-1439	many states	GPE;GPE.ProvinceState	NOM	1.0
+NIST	annotation-26	drivers	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:1578-1584	drivers	PER	NOM	1.0
+NIST	annotation-27	drivers	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:1688-1694	drivers	PER	NOM	1.0
+NIST	annotation-28	agencies	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:1784-1791	state agencies	ORG;ORG.Government;ORG.Government.Agency	NOM	1.0
+NIST	annotation-29	Jeannie Chaffin	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:1794-1808	Jeannie Chaffin	PER;PER.CivilServant	NAM	1.0
+NIST	annotation-30	director	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:1815-1822	director	PER;PER.CivilServant	NOM	1.0
+NIST	annotation-31	HHS	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:1827-1829	HHS	ORG;ORG.Government;ORG.Government.Agency	NAM	1.0
+NIST	annotation-32	Office of Community Services	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:1833-1860	Office of Community Services	ORG;ORG.Government	NAM	1.0
+NIST	annotation-33	states	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:1906-1911	many states contacting	GPE;GPE.ProvinceState	NOM	1.0
+NIST	annotation-34	department	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:1927-1936	HHS	ORG;ORG.Government;ORG.Government.Ministry	NOM	1.0
+NIST	annotation-35	them	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:1946-1949	HHS	ORG;ORG.Government;ORG.Government.Agency	PRO	1.0
+NIST	annotation-36	state	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:2042-2046	states additional funding	GPE;GPE.ProvinceState	NOM	1.0
+NIST	annotation-37	States	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:2048-2053	Midwestern & Northeastern states	GPE;GPE.ProvinceState	NOM	1.0
+NIST	annotation-38	Midwest	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:2068-2074	Midwest	LOC;LOC.Region	NAM	1.0
+NIST	annotation-39	Northeast	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:2084-2092	Northeast	LOC;LOC.Region	NAM	1.0
+NIST	annotation-40	New York	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:2132-2139	New York	GPE;GPE.ProvinceState	NAM	1.0
+NIST	annotation-41	Illinois	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:2183-2190	Illinois	GPE;GPE.ProvinceState	NAM	1.0
+NIST	annotation-42	Michigan	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:2193-2200	Michigan	GPE;GPE.ProvinceState	NAM	1.0
+NIST	annotation-43	Ohio	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:2203-2206	Ohio	GPE;GPE.ProvinceState	NAM	1.0
+NIST	annotation-44	Pennsylvania	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:2212-2223	Pennsylvania	GPE;GPE.ProvinceState	NAM	1.0
+NIST	annotation-45	state	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:2285-2289	states minus Hawaii	GPE;GPE.ProvinceState	NOM	1.0
+NIST	annotation-46	Union	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:2298-2302	US	GPE;GPE.Country	NOM	1.0
+NIST	annotation-47	Hawaii	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:2311-2316	Hawaii	GPE;GPE.ProvinceState	NAM	1.0
+NIST	annotation-48	Hawaii	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:2370-2375	Hawaii	GPE;GPE.ProvinceState	NAM	1.0
+NIST	annotation-49	HHS	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:2434-2436	HHS	ORG;ORG.Government;ORG.Government.Ministry	NAM	1.0
+NIST	annotation-50	HHS	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:2457-2459	HHS	ORG;ORG.Government;ORG.Government.Ministry	NAM	1.0
+NIST	annotation-51	Congress	20140131_WAPO_9d7bd423e308ea367e3453d4b0559a38:2560-2567	Congress	ORG;ORG.Government;ORG.Government.Legislature	NAM	1.0
+NIST	annotation-0	Norovirus	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:0-8	Norovirus	Pathogen;Pathogen.Virus	NAM	1.0
+NIST	annotation-1	cruise lines	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:30-41	cruise lines	ORG;ORG.CommercialOrganization	NOM	1.0
+NIST	annotation-2	passengers	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:47-56	passengers	PER	NOM	1.0
+NIST	annotation-3	flu	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:157-159	stomach flu	IllHealth;IllHealth.Disease;IllHealth.Disease.CommunicableDisease	NOM	1.0
+NIST	annotation-4	ship	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:215-218	cruise ship generic	VEH;VEH.Watercraft;VEH.Watercraft.CruiseShip	NOM	1.0
+NIST	annotation-5	passengers	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:243-252	sick passengers	PER;PER.SituationalRole.Patient	NOM	1.0
+NIST	annotation-6	illness	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:278-284	stomach flu	IllHealth;IllHealth.Disease;IllHealth.Disease.CommunicableDisease	NOM	1.0
+NIST	annotation-7	Randy Fulp	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:311-320	Randy Fulp	PER;PER.SituationalRole.Patient	NAM	1.0
+NIST	annotation-8	he	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:327-328	Randy Fulp	PER;PER.SituationalRole.Patient	PRO	1.0
+NIST	annotation-9	Mexico	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:340-345	Mexico	GPE;GPE.Country	NAM	1.0
+NIST	annotation-10	group	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:354-358	Fulp's friends	PER	NOM	1.0
+NIST	annotation-11	Caribbean Princess	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:378-395	Caribbean Princess	VEH;VEH.Watercraft;VEH.Watercraft.CruiseShip	NAM	1.0
+NIST	annotation-12	Sacramento	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:427-436	Sacramento	GPE;GPE.City	NAM	1.0
+NIST	annotation-13	Fulp	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:439-442	Randy Fulp	PER;PER.SituationalRole.Patient;PER.Professional	NAM	1.0
+NIST	annotation-14	Cruise ships	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:537-548	cruise ships	VEH;VEH.Watercraft;VEH.Watercraft.CruiseShip	NOM	1.0
+NIST	annotation-15	Norwalk virus	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:589-601	Norovirus	Pathogen;Pathogen.Virus	NAM	1.0
+NIST	annotation-16	norovirus	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:622-630	Norovirus	Pathogen;Pathogen.Virus	NAM	1.0
+NIST	annotation-17	flu	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:643-645	stomach flu	IllHealth;IllHealth.Disease;IllHealth.Disease.CommunicableDisease	NOM	1.0
+NIST	annotation-18	their	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:721-725	Fulp and friends	PER	PRO	1.0
+NIST	annotation-19	Fulp	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:737-740	Randy Fulp	PER	NAM	1.0
+NIST	annotation-20	wife	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:744-747	wife Peggy	PER;PER.SituationalRole.Patient	NOM	1.0
+NIST	annotation-21	Peggy	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:750-754	wife Peggy	PER;PER.SituationalRole.Patient	NAM	1.0
+NIST	annotation-22	She	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:780-782	wife Peggy	PER;PER.SituationalRole.Patient	PRO	1.0
+NIST	annotation-23	he	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:823-824	Randy Fulp	PER	PRO	1.0
+NIST	annotation-24	It	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:833-834	stomach flu	IllHealth;IllHealth.Disease;IllHealth.Disease.CommunicableDisease	PRO	1.0
+NIST	annotation-25	His	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:857-859	Randy Fulp	PER	NAM	1.0
+NIST	annotation-26	cousin	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:861-866	cousin	PER	NOM	1.0
+NIST	annotation-27	wife	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:870-873	cousin's wife	PER;PER.SituationalRole.Patient	NOM	1.0
+NIST	annotation-28	sickness	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:918-925	stomach flu	IllHealth;IllHealth.Disease;IllHealth.Disease.CommunicableDisease	NOM	1.0
+NIST	annotation-29	she	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:955-957	cousin's wife	PER;PER.SituationalRole.Patient	PRO	1.0
+NIST	annotation-30	ship	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:980-983	Caribbean Princess	VEH;VEH.Watercraft;VEH.Watercraft.CruiseShip	NOM	1.0
+NIST	annotation-31	She	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:987-989	cousin's wife	PER;PER.SituationalRole.Patient	PRO	1.0
+NIST	annotation-32	her	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:1009-1011	cousin's wife	PER;PER.SituationalRole.Patient	PRO	1.0
+NIST	annotation-33	cabin	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:1013-1017	cousin's wife's cabin	FAC	NOM	1.0
+NIST	annotation-34	she	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:1026-1028	cousin's wife	PER;PER.SituationalRole.Patient	PRO	1.0
+NIST	annotation-35	Fulp	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:1040-1043	Randy Fulp	PER;PER.SituationalRole.Patient	NAM	1.0
+NIST	annotation-36	members	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:1064-1070	two crew members	PER	NOM	1.0
+NIST	annotation-37	her	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:1082-1084	cousin's wife	PER;PER.SituationalRole.Patient	PRO	1.0
+NIST	annotation-38	her	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:1096-1098	cousin's wife	PER;PER.SituationalRole.Patient	PRO	1.0
+NIST	annotation-39	cabin	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:1100-1104	cousin's wife's cabin	FAC	NOM	1.0
+NIST	annotation-40	she	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:1113-1115	cousin's wife	PER;PER.SituationalRole.Patient	PRO	1.0
+NIST	annotation-41	Centers for Disease Control and Prevention	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:1344-1385	Centers for Disease Control	ORG;ORG.Government;ORG.Government.Agency	NAM	1.0
+NIST	annotation-42	Fulp	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:1388-1391	Randy Fulp	PER	NAM	1.0
+NIST	annotation-43	Caribbean Princess	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:1395-1412	Caribbean Princess	VEH;VEH.Watercraft;VEH.Watercraft.CruiseShip	NAM	1.0
+NIST	annotation-44	181	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:1465-1467	181 patients	PER;PER.SituationalRole.Patient	NOM	1.0
+NIST	annotation-45	passengers	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:1478-1487	3102 passengers	PER	NOM	1.0
+NIST	annotation-46	Norwegian Cruise Lines	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:1505-1526	Norwegian Cruise Lines	ORG;ORG.CommercialOrganization	NAM	1.0
+NIST	annotation-47	Star	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:1529-1532	NCL Star	VEH;VEH.Watercraft;VEH.Watercraft.CruiseShip	NAM	1.0
+NIST	annotation-48	130	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:1550-1552	130 patients	PER;PER.SituationalRole.Patient	NOM	1.0
+NIST	annotation-49	passengers	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:1563-1572	2318 passengers	PER	NOM	1.0
+NIST	annotation-50	Caribbean Princess	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:1613-1630	Caribbean Princess	VEH;VEH.Watercraft;VEH.Watercraft.CruiseShip	NAM	1.0
+NIST	annotation-51	Royal Caribbean	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:1644-1658	Royal Caribbean	ORG;ORG.CommercialOrganization	NAM	1.0
+NIST	annotation-52	Explorer of the Seas	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:1662-1681	Explorer of the Seas	VEH;VEH.Watercraft;VEH.Watercraft.CruiseShip	NAM	1.0
+NIST	annotation-53	634	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:1699-1701	634 patients	PER;PER.SituationalRole.Patient	NOM	1.0
+NIST	annotation-54	passengers	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:1712-1721	3071 passengers	PER	NOM	1.0
+NIST	annotation-55	ship	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:1760-1763	Explorer of the Seas	VEH;VEH.Watercraft;VEH.Watercraft.CruiseShip	NOM	1.0
+NIST	annotation-56	Exploder of the Seas	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:1779-1798	Explorer of the Seas	VEH;VEH.Watercraft;VEH.Watercraft.CruiseShip	NAM	1.0
+NIST	annotation-57	CDC	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:1826-1828	Centers for Disease Control	ORG;ORG.Government;ORG.Government.Agency	NAM	1.0
+NIST	annotation-58	virus	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:1870-1874	Norovirus	Pathogen;Pathogen.Virus	NOM	1.0
+NIST	annotation-59	Explorer of the Seas	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:1883-1902	Explorer of the Seas	VEH;VEH.Watercraft;VEH.Watercraft.CruiseShip	NAM	1.0
+NIST	annotation-60	GII.4 Sydney	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:1932-1943	GII.4 Sydney	Pathogen;Pathogen.Virus	NAM	1.0
+NIST	annotation-61	strain	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:1945-1950	GII.4 Sydney	Pathogen;Pathogen.Virus	NOM	1.0
+NIST	annotation-62	passengers	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:2145-2154	passengers on a ship	PER	NOM	1.0
+NIST	annotation-63	ship	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:2173-2176	half passengers	PER;PER.SituationalRole.Patient	NOM	1.0
+NIST	annotation-64	infection	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:2205-2213	an infection	IllHealth;IllHealth.Disease;IllHealth.Disease.CommunicableDisease	NOM	1.0
+NIST	annotation-65	norovirus	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:2350-2358	Norovirus	Pathogen;Pathogen.Virus	NAM	1.0
+NIST	annotation-66	experts	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:2454-2460	experts	PER;PER.Professional	NOM	1.0
+NIST	annotation-67	your	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:2471-2474	people generic	PER	PRO	1.0
+NIST	annotation-68	you	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:2535-2537	people generic	PER	PRO	1.0
+NIST	annotation-69	our	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:2626-2628	people generic	PER	PRO	1.0
+NIST	annotation-70	parents	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:2630-2636	our parents	PER	NOM	1.0
+NIST	annotation-71	teachers	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:2642-2649	our teachers	PER;PER.Professional;PER.Professional.SchoolTeacher	NOM	1.0
+NIST	annotation-72	us	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:2664-2665	people generic	PER	PRO	1.0
+NIST	annotation-73	Susan Rehm	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:2674-2683	Susan Rehm	PER;PER.Professional;PER.Professional.HealthProfessional	NAM	1.0
+NIST	annotation-74	chairman	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:2691-2698	Susan Rehm	PER;PER.Professional;PER.Professional.HealthProfessional	NOM	1.0
+NIST	annotation-75	Cleveland Clinic	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:2707-2722	Cleveland Clinic	ORG;ORG.HealthcareInstitution	NAM	1.0
+NIST	annotation-76	Department of Infectious Disease	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:2726-2757	Department of Infectious Disease	ORG;ORG.HealthcareInstitution	NAM	1.0
+NIST	annotation-77	your	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:2766-2769	people generic	PER	PRO	1.0
+NIST	annotation-78	your	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:2801-2804	people generic	PER	PRO	1.0
+NIST	annotation-79	insiders	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:2820-2827	Cruise insiders	PER	NOM	1.0
+NIST	annotation-80	Mike McGarry	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:2950-2961	Mike McGarry	PER;PER.Professional	NAM	1.0
+NIST	annotation-81	Cruise Lines International Association	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:2984-3021	Cruise Lines International Association	ORG;ORG.Association;ORG.Association.TradeAssociation	NAM	1.0
+NIST	annotation-82	CLIA	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:3024-3027	Cruise Lines International Association	ORG;ORG.Association;ORG.Association.TradeAssociation	NAM	1.0
+NIST	annotation-83	CDC	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:3091-3093	Centers for Disease Control	ORG;ORG.Government;ORG.Government.Agency	NAM	1.0
+NIST	annotation-84	norovirus	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:3125-3133	Norovirus	Pathogen;Pathogen.Virus	NAM	1.0
+NIST	annotation-85	passengers	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:3187-3196	worldwide infected passengers	PER;PER.SituationalRole.Patient	NOM	1.0
+NIST	annotation-86	0.0059 percent	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:3212-3225	worldwide infected passengers	PER;PER.SituationalRole.Patient	NOM	1.0
+NIST	annotation-87	passengers	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:3248-3257	last year's passengers	PER	NOM	1.0
+NIST	annotation-88	agency	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:3273-3278	Centers for Disease Control	ORG;ORG.Government;ORG.Government.Agency	NOM	1.0
+NIST	annotation-89	norovirus	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:3292-3300	Norovirus	Pathogen;Pathogen.Virus	NAM	1.0
+NIST	annotation-90	ships	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:3315-3319	2012 cruise ships	VEH;VEH.Watercraft;VEH.Watercraft.CruiseShip	NOM	1.0
+NIST	annotation-91	cruise industry	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:3379-3393	cruise lines	ORG;ORG.CommercialOrganization	NOM	1.0
+NIST	annotation-92	Stewart Chiron	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:3402-3415	Stewart Chiron	PER	NAM	1.0
+NIST	annotation-93	who	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:3418-3420	Stewart Chiron	PER	PRO	1.0
+NIST	annotation-94	blog	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:3431-3434	The Cruise Guy	Publication	NOM	1.0
+NIST	annotation-95	The Cruise Guy	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:3443-3456	The Cruise Guy	Publication	NAM	1.0
+NIST	annotation-96	He	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:3459-3460	Stewart Chiron	PER	PRO	1.0
+NIST	annotation-97	fraction	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:3557-3564	a fraction of passengers sick	PER;PER.SituationalRole.Patient	NOM	1.0
+NIST	annotation-98	virus	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:3614-3618	gastrointestinal virus	Pathogen;Pathogen.Virus	NOM	1.0
+NIST	annotation-99	viewers	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:3691-3697	viewers generic	PER	NOM	1.0
+NIST	annotation-100	listeners	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:3700-3708	listeners generic	PER	NOM	1.0
+NIST	annotation-101	readers	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:3714-3720	readers generic	PER	NOM	1.0
+NIST	annotation-102	he	20140213_WAPO_cabf3000-9340-11e3-b46a-5a3d0d2130da:3724-3725	Stewart Chiron	PER	PRO	1.0
+NIST	annotation-0	Toyota	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:0-5	Toyota Co.	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NAM	1.0
+NIST	annotation-1	government	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:20-29	US govt	ORG;ORG.Government	NOM	1.0
+NIST	annotation-2	Toyota Motor Corp	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:110-126	Toyota Co.	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NAM	1.0
+NIST	annotation-3	U.S. Justice Department	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:178-200	Justice Department	ORG;ORG.Government;ORG.Government.Ministry	NAM	1.0
+NIST	annotation-4	its	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:222-224	Toyota Co.	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	PRO	1.0
+NIST	annotation-5	Eric Holder	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:272-282	Eric Holder	PER;PER.CivilServant;PER.CivilServant.Minister	NAM	1.0
+NIST	annotation-6	company	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:378-384	generic car manufacturer	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NOM	1.0
+NIST	annotation-7	U.S.	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:389-392	U.S.	GPE;GPE.Country	NAM	1.0
+NIST	annotation-8	Holder	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:404-409	Eric Holder	PER;PER.CivilServant;PER.CivilServant.Minister	NAM	1.0
+NIST	annotation-9	statement	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:421-429	Holder statement	Document	NOM	1.0
+NIST	annotation-10	Toyota	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:502-507	Toyota Co.	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NAM	1.0
+NIST	annotation-11	Toyota	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:535-540	Toyota Co.	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NAM	1.0
+NIST	annotation-12	Holder	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:567-572	Eric Holder	PER;PER.CivilServant;PER.CivilServant.Minister	NAM	1.0
+NIST	annotation-13	Holder	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:580-585	Eric Holder	PER;PER.CivilServant;PER.CivilServant.Minister	NAM	1.0
+NIST	annotation-14	government	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:596-605	US govt	ORG;ORG.Government	NOM	1.0
+NIST	annotation-15	Toyota	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:633-638	Toyota Co.	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NAM	1.0
+NIST	annotation-16	Toyota	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:673-678	Toyota Co.	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NAM	1.0
+NIST	annotation-17	authorities	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:771-781	US govt	ORG;ORG.Government	NOM	1.0
+NIST	annotation-18	me	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:792-793	Eric Holder	PER;PER.CivilServant;PER.CivilServant.Minister	PRO	1.0
+NIST	annotation-19	Department	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:809-818	Justice Department	ORG;ORG.Government;ORG.Government.Ministry	NOM	1.0
+NIST	annotation-20	Holder	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:945-950	Eric Holder	PER;PER.CivilServant;PER.CivilServant.Minister	NAM	1.0
+NIST	annotation-21	Toyota	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:968-973	Toyota Co.	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NAM	1.0
+NIST	annotation-22	vehicles	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:1010-1017	vehicles recalled	VEH;VEH.WheeledVehicle;VEH.WheeledVehicle.MotorVehicle	NOM	1.0
+NIST	annotation-23	company	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:1066-1072	Toyota Co.	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NOM	1.0
+NIST	annotation-24	models	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:1186-1191	vehicles unrecalled	VEH;VEH.WheeledVehicle;VEH.WheeledVehicle.MotorVehicle	NOM	1.0
+NIST	annotation-25	he	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:1211-1212	Eric Holder	PER;PER.CivilServant;PER.CivilServant.Minister	PRO	1.0
+NIST	annotation-26	Toyota	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:1222-1227	Toyota Co.	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NAM	1.0
+NIST	annotation-27	they	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:1319-1322	Toyota Co.	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	PRO	1.0
+NIST	annotation-28	Manhattan U.S. Attorney’s Office	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:1414-1445	SDNY	ORG;ORG.Government;ORG.Government.Agency	NAM	1.0
+NIST	annotation-29	Toyota	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:1477-1482	Toyota Co.	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NAM	1.0
+NIST	annotation-30	investigators	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:1499-1511	investigators	PER;PER.CivilServant	NOM	1.0
+NIST	annotation-31	its	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:1534-1536	Toyota Co.	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	PRO	1.0
+NIST	annotation-32	cars	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:1538-1541	Toyota vehicles	VEH;VEH.WheeledVehicle;VEH.WheeledVehicle.MotorVehicle	NOM	1.0
+NIST	annotation-33	it	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:1551-1552	Toyota Co.	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	PRO	1.0
+NIST	annotation-34	drivers	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:1562-1568	Toyota drivers	PER	NOM	1.0
+NIST	annotation-35	Securities and Exchange Commission	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:1616-1649	Securities and Exchange Commission	ORG;ORG.Government;ORG.Government.Agency	NAM	1.0
+NIST	annotation-36	Japanese	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:1680-1687	Japanese	GPE;GPE.Country	NAM	1.0
+NIST	annotation-37	automaker	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:1689-1697	Toyota Co.	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NOM	1.0
+NIST	annotation-38	investors	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:1707-1715	investors	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.FinancialInstitution	NOM	1.0
+NIST	annotation-39	its	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:1737-1739	Toyota Co.	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	PRO	1.0
+NIST	annotation-40	vehicles	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:1741-1748	Toyota vehicles	VEH;VEH.WheeledVehicle;VEH.WheeledVehicle.MotorVehicle	NOM	1.0
+NIST	annotation-41	laws	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:1776-1779	securities laws	LAW;LAW.Bill	NOM	1.0
+NIST	annotation-42	driver	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:1797-1802	Lexus driver	PER;PER.SituationalRole.Victim	NOM	1.0
+NIST	annotation-43	Lexus	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:1818-1822	a borrowed Lexus	VEH;VEH.WheeledVehicle;VEH.WheeledVehicle.MotorVehicle	NOM	1.0
+NIST	annotation-44	Toyota	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:1834-1839	Toyota Co.	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NAM	1.0
+NIST	annotation-45	vehicle	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:1866-1872	a borrowed Lexus	VEH;VEH.WheeledVehicle;VEH.WheeledVehicle.MotorVehicle	NOM	1.0
+NIST	annotation-46	it	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:1877-1878	a borrowed Lexus	VEH;VEH.WheeledVehicle;VEH.WheeledVehicle.MotorVehicle	PRO	1.0
+NIST	annotation-47	highway	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:1897-1903	highway	FAC;FAC.Way;FAC.Way.Highway	NOM	1.0
+NIST	annotation-48	people	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:1942-1947	people	PER;PER.SituationalRole.Victim	NOM	1.0
+NIST	annotation-49	one	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:1988-1990	passenger called 911	PER;PER.SituationalRole.Survivor;PER.SituationalRole.Victim	PRO	1.0
+NIST	annotation-50	passengers	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:1999-2008	all passengers	PER;PER.SituationalRole.Victim	NOM	1.0
+NIST	annotation-51	operator	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:2024-2031	911 operator	PER;PER.CivilServant	NOM	1.0
+NIST	annotation-52	Toyota	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:2034-2039	Toyota Co.	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NAM	1.0
+NIST	annotation-53	vehicles	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:2071-2078	11 million vehicles	VEH;VEH.WheeledVehicle;VEH.WheeledVehicle.MotorVehicle	NOM	1.0
+NIST	annotation-54	Toyota	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:2189-2194	Toyota Co.	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NAM	1.0
+NIST	annotation-55	owners	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:2341-2346	owners	PER;PER.SituationalRole.Victim	NOM	1.0
+NIST	annotation-56	they	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:2357-2360	owners	PER;PER.SituationalRole.Victim	PRO	1.0
+NIST	annotation-57	prosecutors	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:2528-2538	Justice Department	ORG;ORG.Government;ORG.Government.Ministry	NOM	1.0
+NIST	annotation-58	General Motors	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:2576-2589	General Motors	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NAM	1.0
+NIST	annotation-59	Detroit	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:2608-2614	Detroit	GPE;GPE.City	NAM	1.0
+NIST	annotation-60	automaker	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:2616-2624	General Motors	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NOM	1.0
+NIST	annotation-61	deaths	20140319_WAPO_4d278b642fe93450b41d66ee3ec7a7c1:2720-2725	13 deaths	PER;PER.SituationalRole.Victim	NOM	1.0
+NIST	annotation-0	Michael Milken	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:0-13	Michael Milken	PER;PER.Executive;PER.Executive.BusinessExecutive	NAM	1.0
+NIST	annotation-1	foundation	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:17-26	Milken Family Foundation	ORG;ORG.Charity	NOM	1.0
+NIST	annotation-2	building	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:43-50	HQ	FAC;FAC.Building;FAC.Building.OfficeBuilding	NOM	1.0
+NIST	annotation-3	White House	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:63-73	White House	FAC;FAC.Building;FAC.Building.GovernmentBuilding	NAM	1.0
+NIST	annotation-4	Michael Milken	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:144-157	Michael Milken	PER;PER.Executive;PER.Executive.BusinessExecutive	NAM	1.0
+NIST	annotation-5	Washington	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:197-206	Washington	GPE;GPE.City	NAM	1.0
+NIST	annotation-6	home	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:208-211	HQ	FAC;FAC.Building;FAC.Building.OfficeBuilding	NOM	1.0
+NIST	annotation-7	his	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:217-219	Michael Milken	PER;PER.Executive;PER.Executive.BusinessExecutive	PRO	1.0
+NIST	annotation-8	empire	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:240-245	Milken Family Foundation	ORG;ORG.Charity	NOM	1.0
+NIST	annotation-9	Milken Family Foundation	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:253-276	Milken Family Foundation	ORG;ORG.Charity	NAM	1.0
+NIST	annotation-10	headquarters	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:330-341	HQ	FAC;FAC.Building;FAC.Building.OfficeBuilding	NOM	1.0
+NIST	annotation-11	Riggs Bank	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:346-355	Riggs Bank	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.FinancialInstitution	NAM	1.0
+NIST	annotation-12	building	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:368-375	HQ	FAC;FAC.Building;FAC.Building.OfficeBuilding	NOM	1.0
+NIST	annotation-13	White House	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:406-416	White House	FAC;FAC.Building;FAC.Building.GovernmentBuilding	NAM	1.0
+NIST	annotation-14	sources	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:436-442	sources	PER	NOM	1.0
+NIST	annotation-15	who	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:470-472	sources	PER	PRO	1.0
+NIST	annotation-16	foundation	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:551-560	Milken Family Foundation	ORG;ORG.Charity	NOM	1.0
+NIST	annotation-17	statement	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:571-579	statement	Document	NOM	1.0
+NIST	annotation-18	its	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:592-594	Milken Family Foundation	ORG;ORG.Charity	PRO	1.0
+NIST	annotation-19	property	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:612-619	HQ	FAC;FAC.Building;FAC.Building.OfficeBuilding	NOM	1.0
+NIST	annotation-20	Milken Family Foundation	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:627-650	Milken Family Foundation	ORG;ORG.Charity	NAM	1.0
+NIST	annotation-21	our	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:697-699	Americans	PER	PRO	1.0
+NIST	annotation-22	nation	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:701-706	US	GPE;GPE.Country	NOM	1.0
+NIST	annotation-23	capital	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:710-716	Washington	GPE;GPE.City	NOM	1.0
+NIST	annotation-24	its	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:734-736	Milken Family Foundation	ORG;ORG.Charity	PRO	1.0
+NIST	annotation-25	it	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:804-805	Milken Family Foundation	ORG;ORG.Charity	PRO	1.0
+NIST	annotation-26	educators	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:856-864	educators	PER;PER.Professional;PER.Professional.Professor	NOM	1.0
+NIST	annotation-27	others	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:870-875	other people	PER;PER.Professional;PER.Professional.Scientist	NOM	1.0
+NIST	annotation-28	who	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:877-879	educators and others	PER;PER.Professional	PRO	1.0
+NIST	annotation-29	our	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:908-910	Americans	PER	PRO	1.0
+NIST	annotation-30	Bonnie Somers	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:925-937	Bonnie Somers	PER	NAM	1.0
+NIST	annotation-31	foundation	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:962-971	Milken Family Foundation	ORG;ORG.Charity	NOM	1.0
+NIST	annotation-32	PNC Bank	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:974-981	PNC Bank	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.FinancialInstitution	NAM	1.0
+NIST	annotation-33	which	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:984-988	PNC Bank	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.FinancialInstitution	PRO	1.0
+NIST	annotation-34	building	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:999-1006	HQ	FAC;FAC.Building;FAC.Building.OfficeBuilding	NOM	1.0
+NIST	annotation-35	Milken	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:1047-1052	Michael Milken	PER;PER.Criminal;PER.Executive;PER.Executive.BusinessExecutive;PER.Professional	NAM	1.0
+NIST	annotation-36	He	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:1125-1126	Michael Milken	PER;PER.Criminal;PER.Executive;PER.Executive.BusinessExecutive;PER.Professional	PRO	1.0
+NIST	annotation-37	laws	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:1230-1233	securities laws	LAW	NOM	1.0
+NIST	annotation-38	Securities and Exchange Commission	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:1260-1293	SEC	ORG;ORG.Government;ORG.Government.Agency	NAM	1.0
+NIST	annotation-39	Forbes	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:1296-1301	Forbes	Publication;Publication.Magazine;Publication.Magazine.TradeMagazine	NAM	1.0
+NIST	annotation-40	his	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:1314-1316	Michael Milken	PER;PER.Criminal;PER.Executive;PER.Executive.BusinessExecutive;PER.Professional	NOM	1.0
+NIST	annotation-41	He	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:1343-1344	Michael Milken	PER;PER.Executive;PER.Executive.BusinessExecutive	PRO	1.0
+NIST	annotation-42	his	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:1358-1360	Michael Milken	PER;PER.Executive;PER.Executive.BusinessExecutive	PRO	1.0
+NIST	annotation-43	foundation	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:1392-1401	Milken Family Foundation	ORG;ORG.Charity	NOM	1.0
+NIST	annotation-44	which	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:1404-1408	Milken Family Foundation	ORG;ORG.Charity	PRO	1.0
+NIST	annotation-45	Milken	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:1410-1415	Michael Milken	PER;PER.Executive;PER.Executive.BusinessExecutive	NAM	1.0
+NIST	annotation-46	his	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:1430-1432	Michael Milken	PER;PER.Executive;PER.Executive.BusinessExecutive	PRO	1.0
+NIST	annotation-47	brother	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:1434-1440	Lowell	PER;PER.Executive;PER.Executive.BusinessExecutive	NOM	1.0
+NIST	annotation-48	Lowell	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:1442-1447	Lowell	PER;PER.Executive;PER.Executive.BusinessExecutive	NAM	1.0
+NIST	annotation-49	Washington	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:1546-1555	Washington	GPE;GPE.City	NAM	1.0
+NIST	annotation-50	area	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:1557-1560	DC area	LOC;LOC.Region	NOM	1.0
+NIST	annotation-51	George Washington University	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:1574-1601	GW University	ORG;ORG.EducationalInstitution;ORG.EducationalInstitution.College	NAM	1.0
+NIST	annotation-52	it	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:1618-1619	GW University	ORG;ORG.EducationalInstitution;ORG.EducationalInstitution.College	PRO	1.0
+NIST	annotation-53	Milken	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:1665-1670	Michael Milken	PER;PER.Executive;PER.Executive.BusinessExecutive	NAM	1.0
+NIST	annotation-54	Sumner M. Redstone	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:1690-1707	Sumner M. Redstone	PER;PER.Executive;PER.Executive.BusinessExecutive	NAM	1.0
+NIST	annotation-55	it	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:1719-1720	GW University	ORG;ORG.EducationalInstitution;ORG.EducationalInstitution.College	PRO	1.0
+NIST	annotation-56	its	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:1735-1737	GW University	ORG;ORG.EducationalInstitution;ORG.EducationalInstitution.College	PRO	1.0
+NIST	annotation-57	school	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:1739-1744	Milken Inst. SPH	ORG;ORG.EducationalInstitution;ORG.EducationalInstitution.College	NOM	1.0
+NIST	annotation-58	Milken Institute School of Public Health	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:1767-1806	Milken Inst. SPH	ORG;ORG.EducationalInstitution;ORG.EducationalInstitution.College	NAM	1.0
+NIST	annotation-59	Milken	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:1833-1838	Michael Milken	PER;PER.Executive;PER.Executive.BusinessExecutive	NAM	1.0
+NIST	annotation-60	Post	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:1849-1852	WaPo	Publication;Publication.Newspaper	NAM	1.0
+NIST	annotation-61	he	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:1864-1865	Michael Milken	PER;PER.Executive;PER.Executive.BusinessExecutive	PRO	1.0
+NIST	annotation-62	disease	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:1910-1916	chronic disease	IllHealth;IllHealth.Disease	NOM	1.0
+NIST	annotation-63	conditions	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:1922-1931	chronic condiitons	IllHealth;IllHealth.Disease	NOM	1.0
+NIST	annotation-64	obesity	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:1941-1947	obesity	IllHealth;IllHealth.Disease	NOM	1.0
+NIST	annotation-65	Foggy Bottom	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:1988-1999	Foggy Bottom	LOC;LOC.Neighborhood	NAM	1.0
+NIST	annotation-66	White House	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:2019-2029	White House	FAC;FAC.Building;FAC.Building.GovernmentBuilding	NAM	1.0
+NIST	annotation-67	We	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:2033-2034	Milken Family Foundation	ORG;ORG.Charity	PRO	1.0
+NIST	annotation-68	you	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:2106-2108	Milken Family Foundation	ORG;ORG.Charity	PRO	1.0
+NIST	annotation-69	area	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:2133-2136	Washington	GPE;GPE.City	NOM	1.0
+NIST	annotation-70	where	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:2138-2142	Washington	GPE;GPE.City	PRO	1.0
+NIST	annotation-71	he	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:2173-2174	Michael Milken	PER;PER.Executive;PER.Executive.BusinessExecutive	PRO	1.0
+NIST	annotation-72	Riggs	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:2191-2195	Riggs Bank	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.FinancialInstitution	NAM	1.0
+NIST	annotation-73	building	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:2197-2204	HQ	FAC;FAC.Building;FAC.Building.OfficeBuilding	NOM	1.0
+NIST	annotation-74	he	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:2206-2207	Michael Milken	PER;PER.Executive;PER.Executive.BusinessExecutive	PRO	1.0
+NIST	annotation-75	New York	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:2242-2249	NY	GPE;GPE.City	NAM	1.0
+NIST	annotation-76	York and Sawyer	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:2262-2276	York and Sawyer	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Firm	NAM	1.0
+NIST	annotation-77	building	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:2316-2323	HQ	FAC;FAC.Building;FAC.Building.OfficeBuilding	NOM	1.0
+NIST	annotation-78	one	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:2346-2348	Any ORG	ORG	PRO	1.0
+NIST	annotation-79	grounds	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:2365-2371	WH area	LOC;LOC.Neighborhood	NOM	1.0
+NIST	annotation-80	White House	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:2380-2390	White House	FAC;FAC.Building;FAC.Building.GovernmentBuilding	NAM	1.0
+NIST	annotation-81	officials	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:2402-2410	bank officials	PER;PER.Executive;PER.Executive.BusinessExecutive	NOM	1.0
+NIST	annotation-82	It	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:2482-2483	HQ	FAC;FAC.Building;FAC.Building.OfficeBuilding	PRO	1.0
+NIST	annotation-83	headquarters	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:2499-2510	HQ	FAC;FAC.Building;FAC.Building.OfficeBuilding	NOM	1.0
+NIST	annotation-84	Riggs Bank	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:2516-2525	Riggs Bank	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.FinancialInstitution	NAM	1.0
+NIST	annotation-85	PNC	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:2533-2535	PNC Bank	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.FinancialInstitution	NAM	1.0
+NIST	annotation-86	Riggs	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:2546-2550	Riggs Bank	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.FinancialInstitution	NAM	1.0
+NIST	annotation-87	PNC	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:2561-2563	PNC Bank	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.FinancialInstitution	NAM	1.0
+NIST	annotation-88	branch	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:2576-2581	HQ	FAC;FAC.Building;FAC.Building.OfficeBuilding	NOM	1.0
+NIST	annotation-89	it	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:2599-2600	HQ	FAC;FAC.Building;FAC.Building.OfficeBuilding	PRO	1.0
+NIST	annotation-90	D.C.	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:2635-2638	Washington	GPE;GPE.City	NAM	1.0
+NIST	annotation-91	government	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:2640-2649	DC government	ORG;ORG.Government	NOM	1.0
+NIST	annotation-92	it	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:2660-2661	HQ	FAC;FAC.Building;FAC.Building.OfficeBuilding	PRO	1.0
+NIST	annotation-93	Milken	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:2690-2695	Michael Milken	PER;PER.Executive;PER.Executive.BusinessExecutive	NAM	1.0
+NIST	annotation-94	building	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:2753-2760	HQ	FAC;FAC.Building;FAC.Building.OfficeBuilding	NOM	1.0
+NIST	annotation-95	which	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:2763-2767	HQ	FAC;FAC.Building;FAC.Building.OfficeBuilding	PRO	1.0
+NIST	annotation-96	National Register of Historic Places	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:2786-2821	Nat'l Reg of His Places	Publication	NAM	1.0
+NIST	annotation-97	which	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:2827-2831	HQ	FAC;FAC.Building;FAC.Building.OfficeBuilding	PRO	1.0
+NIST	annotation-98	Treasury Department	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:2885-2903	Treasury Dept Building	FAC;FAC.Building;FAC.Building.GovernmentBuilding	NAM	1.0
+NIST	annotation-99	sources	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:2917-2923	sources	PER	NOM	1.0
+NIST	annotation-100	Shalom Baranes Associates	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:2953-2977	Shalom Baranes Assoc	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Firm	NAM	1.0
+NIST	annotation-101	Akridge	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:2993-2999	Akridge	ORG;ORG.CommercialOrganization	NAM	1.0
+NIST	annotation-102	Milken	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:3020-3025	Michael Milken	PER;PER.Executive;PER.Executive.BusinessExecutive	NAM	1.0
+NIST	annotation-103	building	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:3047-3054	HQ	FAC;FAC.Building;FAC.Building.OfficeBuilding	NOM	1.0
+NIST	annotation-104	Both	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:3079-3082	SBA & Akridge	ORG;ORG.CommercialOrganization	PRO	1.0
+NIST	annotation-105	District	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:3109-3116	Washington	GPE;GPE.City	NAM	1.0
+NIST	annotation-106	Jonathan O’Connell	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:3126-3143	Jonathan O'Connell	PER;PER.Professional;PER.Professional.Journalist	NAM	1.0
+NIST	annotation-107	Twitter	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:3148-3154	Twitter	APP;APP.CommunicationSoftware;APP.CommunicationSoftware.SocialMedia	NAM	1.0
+NIST	annotation-108	@oconnellpostbiz	20140425_WAPO_06d9879c8718275918c03ff5a75d0604:3157-3172	Jonathan O'Connell	PER;PER.Professional;PER.Professional.Journalist	NAM	1.0
+NIST	annotation-0	Malaysia Airlines	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:41-57	Malaysia Airlines	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Carrier	NAM	1.0
+NIST	annotation-1	Flight 17	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:59-67	Malaysia Airlines Flight 17	VEH;VEH.Aircraft;VEH.Aircraft.CivilAircraft	NAM	1.0
+NIST	annotation-2	Malaysia Airlines	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:129-145	Malaysia Airlines	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Carrier	NAM	1.0
+NIST	annotation-3	Flight 17	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:147-155	Malaysia Airlines Flight 17	VEH;VEH.Aircraft;VEH.Aircraft.CivilAircraft	NAM	1.0
+NIST	annotation-4	eastern Ukraine	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:160-174	eastern Ukraine	LOC;LOC.Region	NAM	1.0
+NIST	annotation-5	airliner	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:241-248	Malaysia Airlines Flight 17	VEH;VEH.Aircraft;VEH.Aircraft.CivilAircraft	NOM	1.0
+NIST	annotation-6	media	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:282-286	Social media	APP;APP.CommunicationSoftware;APP.CommunicationSoftware.SocialMedia	NOM	1.0
+NIST	annotation-7	site	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:323-326	crash site	LOC;LOC.GeographicPoint	NOM	1.0
+NIST	annotation-8	aircraft	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:359-366	Malaysia Airlines Flight 17	VEH;VEH.Aircraft;VEH.Aircraft.CivilAircraft	NOM	1.0
+NIST	annotation-9	experts	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:438-444	some experts	PER;PER.Professional	NOM	1.0
+NIST	annotation-10	missile	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:471-477	a missile	WEA;WEA.Missile;WEA.Missile.SurfaceToAirMissile	NOM	1.0
+NIST	annotation-11	warheads	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:684-691	warheads	WEA;WEA.Missile	NOM	1.0
+NIST	annotation-12	Jane’s	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:736-741	Jane’s	ORG;ORG.CommercialOrganization	NAM	1.0
+NIST	annotation-13	Military Capabilities	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:743-763	Military Capabilities	ORG;ORG.CommercialOrganization	NAM	1.0
+NIST	annotation-14	Manager	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:765-771	Reed Foster	PER;PER.Professional	NOM	1.0
+NIST	annotation-15	Reed Foster	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:773-783	Reed Foster	PER;PER.Professional	NAM	1.0
+NIST	annotation-16	warhead	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:868-874	fragmentation warhead	WEA;WEA.ExplosiveDevice	NOM	1.0
+NIST	annotation-17	systems	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:943-949	modern s2a systems	WEA;WEA.Missile;WEA.Missile.SurfaceToAirMissile	NOM	1.0
+NIST	annotation-18	missiles	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:973-980	most s2a missiles	WEA;WEA.Missile;WEA.Missile.SurfaceToAirMissile	NOM	1.0
+NIST	annotation-19	those	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:991-995	missiles believed	WEA;WEA.Missile;WEA.Missile.SurfaceToAirMissile	PRO	1.0
+NIST	annotation-20	SA-11	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:1010-1014	SA-11	WEA;WEA.Missile;WEA.Missile.SurfaceToAirMissile	NAM	1.0
+NIST	annotation-21	Buk M1	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:1019-1024	Buk M1	WEA;WEA.Missile;WEA.Missile.SurfaceToAirMissile	NAM	1.0
+NIST	annotation-22	systems	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:1026-1032	SA11 or BukM1 systems	WEA;WEA.Missile;WEA.Missile.SurfaceToAirMissile	NAM	1.0
+NIST	annotation-23	that	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:1034-1037	missiles believed	WEA;WEA.Missile;WEA.Missile.SurfaceToAirMissile	PRO	1.0
+NIST	annotation-24	U.S.	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:1043-1046	U.S.	GPE;GPE.Country	NAM	1.0
+NIST	annotation-25	MH17	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:1067-1070	Malaysia Airlines Flight 17	VEH;VEH.Aircraft;VEH.Aircraft.CivilAircraft	NAM	1.0
+NIST	annotation-26	their	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:1110-1114	most s2a missiles	WEA;WEA.Missile;WEA.Missile.SurfaceToAirMissile	NAM	1.0
+NIST	annotation-27	aircraft	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:1273-1280	Malaysia Airlines Flight 17	VEH;VEH.Aircraft;VEH.Aircraft.CivilAircraft	NOM	1.0
+NIST	annotation-28	Twitter	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:1338-1344	Twitter	APP;APP.CommunicationSoftware;APP.CommunicationSoftware.SocialMedia	NAM	1.0
+NIST	annotation-29	aircraft	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:1440-1447	Malaysia Airlines Flight 17	VEH;VEH.Aircraft;VEH.Aircraft.CivilAircraft	NOM	1.0
+NIST	annotation-30	plane	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:1499-1503	Malaysia Airlines Flight 17	VEH;VEH.Aircraft;VEH.Aircraft.CivilAircraft	NAM	1.0
+NIST	annotation-31	jet	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:1562-1564	jet	VEH;VEH.Aircraft;VEH.Aircraft.MilitaryAircraft	NOM	1.0
+NIST	annotation-32	missile	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:1575-1581	a2a missile	WEA;WEA.Missile;WEA.Missile.AirToAirMissile	NOM	1.0
+NIST	annotation-33	aircraft	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:1594-1601	target aircraft	VEH;VEH.Aircraft	NOM	1.0
+NIST	annotation-34	missiles	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:1663-1670	s2a milles generic	WEA;WEA.Missile;WEA.Missile.SurfaceToAirMissile	NOM	1.0
+NIST	annotation-35	they	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:1705-1708	s2a milles generic	WEA;WEA.Missile;WEA.Missile.SurfaceToAirMissile	PRO	1.0
+NIST	annotation-36	payloads	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:1735-1742	payloads	WEA;WEA.ExplosiveDevice	NOM	1.0
+NIST	annotation-37	their	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:1749-1753	s2a milles generic	WEA;WEA.Missile;WEA.Missile.SurfaceToAirMissile	PRO	1.0
+NIST	annotation-38	counterparts	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:1766-1777	a2a missile generic	WEA;WEA.Missile;WEA.Missile.AirToAirMissile	NOM	1.0
+NIST	annotation-39	Foster	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:2019-2024	Reed Foster	PER	NAM	1.0
+NIST	annotation-40	James Hackett	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:2050-2062	James Hackett	PER;PER.Professional	NAM	1.0
+NIST	annotation-41	Defense and Military Analysis	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:2085-2113	Defense and Military Analysis	ORG	NAM	1.0
+NIST	annotation-42	The International Institute for Strategic Studies	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:2118-2166	The International Institute for Strategic Studies	ORG	NAM	1.0
+NIST	annotation-43	warhead	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:2296-2302	warhead 17	WEA;WEA.ExplosiveDevice	NOM	1.0
+NIST	annotation-44	that	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:2304-2307	warhead 17	WEA;WEA.ExplosiveDevice	PRO	1.0
+NIST	annotation-45	MH17	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:2319-2322	Malaysia Airlines Flight 17	VEH;VEH.Aircraft;VEH.Aircraft.CivilAircraft	NAM	1.0
+NIST	annotation-46	weapon	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:2427-2432	missiles believed	WEA;WEA.Missile;WEA.Missile.SurfaceToAirMissile	NOM	1.0
+NIST	annotation-47	warhead	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:2459-2465	warhead 17	WEA;WEA.ExplosiveDevice	NOM	1.0
+NIST	annotation-48	system	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:2583-2588	SA11 or BukM1 systems	WEA;WEA.Missile;WEA.Missile.SurfaceToAirMissile	NOM	1.0
+NIST	annotation-49	Hackett	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:2601-2607	James Hackett	PER;PER.Professional	NAM	1.0
+NIST	annotation-50	Malaysia	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:2652-2659	Malaysia	GPE;GPE.Country	NAM	1.0
+NIST	annotation-51	Ukraine	20140721_WAPO_e1d44d4a33a036abf345e5a752ab3a62:2676-2682	Ukraine	GPE;GPE.Country	NAM	1.0
+NIST	annotation-0	lines	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:11-15	cruise lines	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Carrier	NOM	1.0
+NIST	annotation-1	their	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:41-45	cruise lines	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Carrier	PRO	1.0
+NIST	annotation-2	passengers	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:47-56	passengers	PER	NOM	1.0
+NIST	annotation-3	Pat Busovicki	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:107-119	Pat Busovicki	PER	NAM	1.0
+NIST	annotation-4	Eastern Caribbean	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:123-139	Eastern Caribbean	LOC;LOC.Water;LOC.Water.Sea	NAM	1.0
+NIST	annotation-5	Carnival Dream	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:155-168	Carnival Dream	VEH;VEH.Watercraft;VEH.Watercraft.CruiseShip	NAM	1.0
+NIST	annotation-6	its	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:236-238	Carnival Dream	VEH;VEH.Watercraft;VEH.Watercraft.CruiseShip	PRO	1.0
+NIST	annotation-7	she	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:261-263	Pat Busovicki	PER;PER.SituationalRole.Survivor;PER.Professional	NAM	1.0
+NIST	annotation-8	she	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:271-273	Pat Busovicki	PER;PER.SituationalRole.Survivor;PER.Professional	PRO	1.0
+NIST	annotation-9	herself	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:281-287	Pat Busovicki	PER;PER.SituationalRole.Survivor;PER.Professional	PRO	1.0
+NIST	annotation-10	I	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:323-323	Pat Busovicki	PER;PER.SituationalRole.Survivor;PER.Professional	PRO	1.0
+NIST	annotation-11	librarian	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:366-374	Pat Busovicki	PER;PER.Professional;PER.SituationalRole.Survivor	NOM	1.0
+NIST	annotation-12	Westlake	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:381-388	Westlake, OH	GPE;GPE.City	NAM	1.0
+NIST	annotation-13	Ohio	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:391-394	Ohio	GPE;GPE.ProvinceState	NAM	1.0
+NIST	annotation-14	She	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:397-399	Pat Busovicki	PER;PER.SituationalRole.Survivor;PER.Professional	NAM	1.0
+NIST	annotation-15	members	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:416-422	crew members	PER	NOM	1.0
+NIST	annotation-16	her	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:438-440	Pat Busovicki	PER;PER.SituationalRole.Survivor;PER.Professional	PRO	1.0
+NIST	annotation-17	her	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:458-460	Pat Busovicki	PER;PER.SituationalRole.Survivor;PER.Professional	PRO	1.0
+NIST	annotation-18	sister	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:462-467	Pat's sister	PER	NOM	1.0
+NIST	annotation-19	passenger	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:496-504	another passenger	PER	NOM	1.0
+NIST	annotation-20	her	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:537-539	Pat Busovicki	PER;PER.SituationalRole.Survivor;PER.Professional	PRO	1.0
+NIST	annotation-21	Busovicki	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:542-550	Pat Busovicki	PER;PER.SituationalRole.Survivor	NAM	1.0
+NIST	annotation-22	group	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:578-582	advocates & passengers	PER;ORG;ORG.AdvocacyGroup	NOM	1.0
+NIST	annotation-23	advocates	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:596-604	advocates	ORG;ORG.AdvocacyGroup	NOM	1.0
+NIST	annotation-24	passengers	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:610-619	concerned passengers	PER	NOM	1.0
+NIST	annotation-25	lines	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:643-647	cruise lines	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Carrier	NOM	1.0
+NIST	annotation-26	their	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:680-684	cruise lines	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Carrier	PRO	1.0
+NIST	annotation-27	customers	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:686-694	passengers	PER	NOM	1.0
+NIST	annotation-28	itself	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:736-741	cruise lines	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Carrier	PRO	1.0
+NIST	annotation-29	groups	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:753-758	advocates	ORG;ORG.AdvocacyGroup	NOM	1.0
+NIST	annotation-30	government	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:775-784	U.S. gov't	ORG;ORG.Government	NOM	1.0
+NIST	annotation-31	them	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:822-825	passengers	PER	PRO	1.0
+NIST	annotation-32	Busovicki	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:847-855	Pat Busovicki	PER;PER.SituationalRole.Patient;PER.SituationalRole.Survivor	NAM	1.0
+NIST	annotation-33	ship	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:869-872	Carnival Dream	VEH;VEH.Watercraft;VEH.Watercraft.CruiseShip	NOM	1.0
+NIST	annotation-34	doctor	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:876-881	doctor	PER;PER.Professional;PER.Professional.HealthProfessional	NOM	1.0
+NIST	annotation-35	he	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:884-885	doctor	PER;PER.Professional;PER.Professional.HealthProfessional	PRO	1.0
+NIST	annotation-36	her	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:892-894	Pat Busovicki	PER;PER.SituationalRole.Patient;PER.SituationalRole.Survivor	PRO	1.0
+NIST	annotation-37	she	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:901-903	Pat Busovicki	PER;PER.SituationalRole.Patient;PER.SituationalRole.Survivor	PRO	1.0
+NIST	annotation-38	her	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:978-980	Pat Busovicki	PER;PER.SituationalRole.Survivor;PER.SituationalRole.Patient	PRO	1.0
+NIST	annotation-39	she	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:996-998	Pat Busovicki	PER;PER.SituationalRole.Survivor;PER.SituationalRole.Patient	PRO	1.0
+NIST	annotation-40	she	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:1010-1012	Pat Busovicki	PER;PER.SituationalRole.Survivor;PER.SituationalRole.Patient	PRO	1.0
+NIST	annotation-41	Carnival	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:1036-1043	Carnival cruise line	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Carrier	NAM	1.0
+NIST	annotation-42	Carnival	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:1099-1106	Carnival cruise line	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Carrier	NAM	1.0
+NIST	annotation-43	it	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:1118-1119	Carnival cruise line	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Carrier	PRO	1.0
+NIST	annotation-44	her	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:1162-1164	Pat Busovicki	PER;PER.SituationalRole.Survivor	PRO	1.0
+NIST	annotation-45	it	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:1184-1185	Carnival cruise line	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Carrier	PRO	1.0
+NIST	annotation-46	our	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:1290-1292	Carnival cruise line	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Carrier	PRO	1.0
+NIST	annotation-47	guests	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:1294-1299	Carnival passengers	PER	NOM	1.0
+NIST	annotation-48	our	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:1325-1327	Carnival cruise line	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Carrier	PRO	1.0
+NIST	annotation-49	cruises	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:1341-1347	Carnival cruiseships	VEH;VEH.Watercraft;VEH.Watercraft.CruiseShip	NOM	1.0
+NIST	annotation-50	you	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:1372-1374	Carnival passengers	PER	PRO	1.0
+NIST	annotation-51	company	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:1438-1444	Carnival cruise line	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Carrier	NOM	1.0
+NIST	annotation-52	Carnival	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:1452-1459	Carnival cruise line	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Carrier	NAM	1.0
+NIST	annotation-53	her	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:1469-1471	Pat Busovicki	PER	PRO	1.0
+NIST	annotation-54	Carnival	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:1517-1524	Carnival cruise line	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Carrier	NAM	1.0
+NIST	annotation-55	representative	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:1526-1539	representative	PER;PER.Professional	NOM	1.0
+NIST	annotation-56	Busovicki	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:1550-1558	Pat Busovicki	PER	NAM	1.0
+NIST	annotation-57	she	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:1574-1576	Pat Busovicki	PER	PRO	1.0
+NIST	annotation-58	me	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:1588-1589	article_reporter	PER;PER.Professional;PER.Professional.Journalist	PRO	1.0
+NIST	annotation-59	firm	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:1609-1612	Carnival cruise line	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Carrier	NOM	1.0
+NIST	annotation-60	her	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:1626-1628	Pat Busovicki	PER	PRO	1.0
+NIST	annotation-61	its	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:1661-1663	Carnival cruise line	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Carrier	PRO	1.0
+NIST	annotation-62	representative	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:1716-1729	representative	PER;PER.Professional	NOM	1.0
+NIST	annotation-63	members	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:1867-1873	crew attending slide	PER	NOM	1.0
+NIST	annotation-64	She	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:1908-1910	Pat Busovicki	PER;PER.SituationalRole.Patient	PRO	1.0
+NIST	annotation-65	our	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:1959-1961	Carnival cruise line	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Carrier	PRO	1.0
+NIST	annotation-66	team	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:1971-1974	medical team	PER;PER.Professional;PER.Professional.HealthProfessional	NOM	1.0
+NIST	annotation-67	staff	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:1999-2003	guest service staff	PER	NOM	1.0
+NIST	annotation-68	she	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:2037-2039	Pat Busovicki	PER;PER.SituationalRole.Patient	PRO	1.0
+NIST	annotation-69	Carnival	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:2071-2078	Carnival cruise line	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Carrier	NAM	1.0
+NIST	annotation-70	Jennifer de la Cruz	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:2092-2110	Jennifer de la Cruz	PER;PER.Professional	NAM	1.0
+NIST	annotation-71	team	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:2133-2136	guest service staff	PER	NOM	1.0
+NIST	annotation-72	her	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:2155-2157	Pat Busovicki	PER;PER.SituationalRole.Patient	PRO	1.0
+NIST	annotation-73	her	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:2207-2209	Pat Busovicki	PER;PER.SituationalRole.Patient	PRO	1.0
+NIST	annotation-74	she	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:2219-2221	Pat Busovicki	PER;PER.SituationalRole.Patient	PRO	1.0
+NIST	annotation-75	her	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:2235-2237	Pat Busovicki	PER;PER.SituationalRole.Patient	PRO	1.0
+NIST	annotation-76	ship	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:2266-2269	Carnival Dream	VEH;VEH.Watercraft;VEH.Watercraft.CruiseShip	NOM	1.0
+NIST	annotation-77	industry	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:2292-2299	cruise lines	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Carrier	NOM	1.0
+NIST	annotation-78	industry	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:2466-2473	cruise lines	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Carrier	NOM	1.0
+NIST	annotation-79	passenger bill of rights	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:2486-2509	passenger bill of rights	Document	NAM	1.0
+NIST	annotation-80	that	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:2512-2515	passenger bill of rights	Document	PRO	1.0
+NIST	annotation-81	document	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:2574-2581	passenger bill of rights	Document	NOM	1.0
+NIST	annotation-82	customers	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:2588-2596	passengers	PER	NOM	1.0
+NIST	annotation-83	ship	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:2628-2631	docked ship	VEH;VEH.Watercraft;VEH.Watercraft.CruiseShip	NOM	1.0
+NIST	annotation-84	ocean cruises	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:2881-2893	ocean cruises	VEH;VEH.Watercraft;VEH.Watercraft.CruiseShip	NOM	1.0
+NIST	annotation-85	bill	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:2920-2923	passenger bill of rights	Document	NOM	1.0
+NIST	annotation-86	which	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:2936-2940	passenger bill of rights	Document	PRO	1.0
+NIST	annotation-87	passengers	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:2995-3004	passengers	PER	NOM	1.0
+NIST	annotation-88	watchers	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:3029-3036	some watchers	PER;PER.Professional	NOM	1.0
+NIST	annotation-89	bill	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:3057-3060	passenger bill of rights	Document	NOM	1.0
+NIST	annotation-90	passengers	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:3084-3093	passengers	PER	NOM	1.0
+NIST	annotation-91	Kendall Carver	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:3129-3142	Kendall Carver	PER;PER.Executive	NAM	1.0
+NIST	annotation-92	chairman	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:3145-3152	Kendall Carver	PER;PER.Executive	NOM	1.0
+NIST	annotation-93	International Cruise Victims Association	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:3161-3200	International Cruise Victims Association	ORG;ORG.AdvocacyGroup	NAM	1.0
+NIST	annotation-94	it	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:3213-3214	passenger bill of rights	Document	PRO	1.0
+NIST	annotation-95	lines	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:3248-3252	cruise lines	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Carrier	NOM	1.0
+NIST	annotation-96	law	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:3282-3284	Cruise Passenger Protection Act	LAW;LAW.Bill	NOM	1.0
+NIST	annotation-97	Cruise Passenger Protection Act	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:3297-3327	Cruise Passenger Protection Act	LAW;LAW.Bill	NAM	1.0
+NIST	annotation-98	bill	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:3354-3357	Cruise Passenger Protection Act	LAW;LAW.Bill	NOM	1.0
+NIST	annotation-99	lines	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:3379-3383	cruise lines	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Carrier	NOM	1.0
+NIST	annotation-100	customers	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:3394-3402	passengers	PER	NAM	1.0
+NIST	annotation-101	It	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:3490-3491	Cruise Passenger Protection Act	LAW;LAW.Bill	PRO	1.0
+NIST	annotation-102	government	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:3521-3530	U.S. gov't	ORG;ORG.Government	NOM	1.0
+NIST	annotation-103	passengers	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:3570-3579	passengers	PER	NOM	1.0
+NIST	annotation-104	Busovicki	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:3625-3633	Pat Busovicki	PER	NAM	1.0
+NIST	annotation-105	law	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:3664-3666	Cruise Passenger Protection Act	LAW;LAW.Bill	NOM	1.0
+NIST	annotation-106	ships	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:3708-3712	cruiseships	VEH;VEH.Watercraft;VEH.Watercraft.CruiseShip	NOM	1.0
+NIST	annotation-107	FBI	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:3750-3752	FBI	ORG;ORG.Government;ORG.Government.Agency	NAM	1.0
+NIST	annotation-108	passengers	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:3832-3841	passengers	PER	NOM	1.0
+NIST	annotation-109	cruises	20140918_WAPO_e8304258-3a9f-11e4-9c9f-ebb47272e40e:3868-3874	cruiseships	VEH;VEH.Watercraft;VEH.Watercraft.CruiseShip	NOM	1.0
+NIST	annotation-0	Obama	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:0-4	President Obama	PER	NAM	1.0
+NIST	annotation-1	pick	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:23-26	Millenium Steel	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NOM	1.0
+NIST	annotation-2	country	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:44-50	United States	GPE;GPE.Country	NOM	1.0
+NIST	annotation-3	Obama	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:129-133	President Obama	PER;PER.Politician;PER.Politician.HeadOfGovernment	NAM	1.0
+NIST	annotation-4	Indiana	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:151-157	Indiana	GPE;GPE.ProvinceState	NAM	1.0
+NIST	annotation-5	company	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:159-165	Millenium Steel	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NOM	1.0
+NIST	annotation-6	he	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:178-179	President Obama	PER;PER.Politician;PER.Politician.HeadOfGovernment	PRO	1.0
+NIST	annotation-7	American	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:208-215	American	GPE;GPE.Country	NAM	1.0
+NIST	annotation-8	jobs	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:239-242	US manufacturing jobs	PER	NOM	1.0
+NIST	annotation-9	it	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:288-289	Millenium Steel	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	PRO	1.0
+NIST	annotation-10	Millenium Steel	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:327-341	Millenium Steel	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NAM	1.0
+NIST	annotation-11	Princeton	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:346-354	Princeton, Indiana	GPE;GPE.City	NAM	1.0
+NIST	annotation-12	Ind	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:357-359	Indiana	GPE;GPE.ProvinceState	NAM	1.0
+NIST	annotation-13	It	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:395-396	Millenium Steel	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	PRO	1.0
+NIST	annotation-14	Japanese	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:462-469	Japanese	GPE;GPE.Country	NAM	1.0
+NIST	annotation-15	giant	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:476-480	Toyota	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NOM	1.0
+NIST	annotation-16	Toyota	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:482-487	Toyota	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NAM	1.0
+NIST	annotation-17	It	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:490-491	Millenium Steel	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	PRO	1.0
+NIST	annotation-18	its	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:515-517	Millenium Steel	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NAM	1.0
+NIST	annotation-19	American	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:643-650	United States	GPE;GPE.Country	NAM	1.0
+NIST	annotation-20	companies	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:652-660	bigger steel companies	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NOM	1.0
+NIST	annotation-21	Toyota	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:669-674	Toyota	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NAM	1.0
+NIST	annotation-22	Millenium	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:680-688	Millenium Steel	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NAM	1.0
+NIST	annotation-23	makers	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:730-735	bigger steel companies	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NOM	1.0
+NIST	annotation-24	China	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:799-803	China	GPE;GPE.Country	NAM	1.0
+NIST	annotation-25	United States	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:863-875	United States	GPE;GPE.Country	NAM	1.0
+NIST	annotation-26	Millenium Steel	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:878-892	Millenium Steel	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NAM	1.0
+NIST	annotation-27	Toyota	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:925-930	Toyota	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NAM	1.0
+NIST	annotation-28	enterprises	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:983-993	minority enterprises	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NOM	1.0
+NIST	annotation-29	5 percent	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:995-1003	minority enterprises	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NOM	1.0
+NIST	annotation-30	its	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1008-1010	Toyota	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	PRO	1.0
+NIST	annotation-31	Toyota	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1035-1040	Toyota	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NAM	1.0
+NIST	annotation-32	Toyota Tsusho America	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1054-1074	Toyota	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NAM	1.0
+NIST	annotation-33	Henry Jackson	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1080-1092	Henry Jackson	PER;PER.Executive;PER.Executive.BusinessExecutive;PER.Serviceman;PER.Serviceman.Veteran	NAM	1.0
+NIST	annotation-34	Vietnam	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1097-1103	Vietnam	GPE;GPE.Country	NAM	1.0
+NIST	annotation-35	Kentucky	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1127-1134	Kentucky	GPE;GPE.ProvinceState	NAM	1.0
+NIST	annotation-36	who	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1148-1150	Henry Jackson	PER;PER.Executive;PER.Executive.BusinessExecutive;PER.Serviceman;PER.Serviceman.Veteran	NAM	1.0
+NIST	annotation-37	company	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1167-1173	Jackson's company	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NOM	1.0
+NIST	annotation-38	Toyota	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1185-1190	Toyota	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NAM	1.0
+NIST	annotation-39	Millenium Steel	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1212-1226	Millenium Steel	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NAM	1.0
+NIST	annotation-40	Millenium Steel	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1229-1243	Millenium Steel	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NAM	1.0
+NIST	annotation-41	enterprises	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1280-1290	7 minority companies	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NOM	1.0
+NIST	annotation-42	Toyota	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1292-1297	Toyota	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NAM	1.0
+NIST	annotation-43	Automotive News	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1364-1378	Automotive News	Publication;Publication.Magazine;Publication.Magazine.TradeMagazine	NAM	1.0
+NIST	annotation-44	Millenium Steel	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1381-1395	Millenium Steel	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NAM	1.0
+NIST	annotation-45	it	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1432-1433	Millenium Steel	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	PRO	1.0
+NIST	annotation-46	makers	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1498-1503	bigger steel companies	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NOM	1.0
+NIST	annotation-47	Toyota	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1509-1514	Toyota	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NAM	1.0
+NIST	annotation-48	It	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1517-1518	Millenium Steel	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	PRO	1.0
+NIST	annotation-49	Toyota	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1548-1553	Toyota	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NAM	1.0
+NIST	annotation-50	plant	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1576-1580	Toyota light truck plant	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NOM	1.0
+NIST	annotation-51	Princeton	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1585-1593	Princeton, Indiana	GPE;GPE.City	NAM	1.0
+NIST	annotation-52	which	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1596-1600	Toyota light truck plant	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	PRO	1.0
+NIST	annotation-53	Sienna	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1608-1613	Sienna	VEH;VEH.WheeledVehicle;VEH.WheeledVehicle.MotorVehicle	NAM	1.0
+NIST	annotation-54	minivans	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1615-1622	Sienna minivans	VEH;VEH.WheeledVehicle;VEH.WheeledVehicle.MotorVehicle	NOM	1.0
+NIST	annotation-55	Highlander	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1628-1637	Highlander	VEH;VEH.WheeledVehicle;VEH.WheeledVehicle.MotorVehicle	NAM	1.0
+NIST	annotation-56	SUVs	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1639-1642	Highlander SUVs	VEH;VEH.WheeledVehicle;VEH.WheeledVehicle.MotorVehicle	NOM	1.0
+NIST	annotation-57	it	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1650-1651	Millenium Steel	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	PRO	1.0
+NIST	annotation-58	site	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1665-1668	site of San Antonio plan	LOC;LOC.GeographicPoint	NOM	1.0
+NIST	annotation-59	Toyota	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1673-1678	Toyota	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NAM	1.0
+NIST	annotation-60	plant	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1682-1686	San Antonio plant	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NOM	1.0
+NIST	annotation-61	San Antonio	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1691-1701	San Antonio, TX	GPE;GPE.City	NAM	1.0
+NIST	annotation-62	Tundra	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1716-1721	Tundra	VEH;VEH.WheeledVehicle;VEH.WheeledVehicle.MotorVehicle	NAM	1.0
+NIST	annotation-63	Takoma	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1727-1732	Takoma	VEH;VEH.WheeledVehicle;VEH.WheeledVehicle.MotorVehicle	NAM	1.0
+NIST	annotation-64	trucks	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1741-1746	Tundra and Takoma	VEH;VEH.WheeledVehicle;VEH.WheeledVehicle.MotorVehicle	NOM	1.0
+NIST	annotation-65	Toyota	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1753-1758	Toyota	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NAM	1.0
+NIST	annotation-66	Texas	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1762-1766	Texas	GPE;GPE.ProvinceState	NAM	1.0
+NIST	annotation-67	plant	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1768-1772	Toyota Texas plant	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NAM	1.0
+NIST	annotation-68	it	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1775-1776	Millenium Steel	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	PRO	1.0
+NIST	annotation-69	Millenium	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1831-1839	Millenium Steel	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NAM	1.0
+NIST	annotation-70	either	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1845-1850	Indiana & Texas plants	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	PRO	1.0
+NIST	annotation-71	Toyota	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1863-1868	Toyota	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NAM	1.0
+NIST	annotation-72	plants	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1870-1875	Indiana & Texas plants	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NOM	1.0
+NIST	annotation-73	Democratic	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1909-1918	Democrats	ORG;ORG.PoliticalOrganization;ORG.PoliticalOrganization.Party	NAM	1.0
+NIST	annotation-74	president	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1920-1928	generic Democratic president	PER;PER.Politician;PER.Politician.HeadOfGovernment	NOM	1.0
+NIST	annotation-75	it	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:1998-1999	Millenium Steel	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	PRO	1.0
+NIST	annotation-76	Millenium	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:2037-2045	Millenium Steel	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NAM	1.0
+NIST	annotation-77	employees	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:2054-2062	40 employees	PER	NOM	1.0
+NIST	annotation-78	firm	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:2112-2115	Millenium Steel	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NOM	1.0
+NIST	annotation-79	employees	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:2130-2138	50 employees	PER	NOM	1.0
+NIST	annotation-80	Toyota	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:2141-2146	Toyota	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NAM	1.0
+NIST	annotation-81	American	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:2178-2185	United States	GPE;GPE.Country	NAM	1.0
+NIST	annotation-82	U.S.	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:2232-2235	United States	GPE;GPE.Country	NAM	1.0
+NIST	annotation-83	automakers	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:2237-2246	US automakers	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NOM	1.0
+NIST	annotation-84	they	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:2289-2292	US automakers	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	PRO	1.0
+NIST	annotation-85	Toyota	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:2309-2314	Toyota	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NAM	1.0
+NIST	annotation-86	San Antonio	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:2318-2328	San Antonio, TX	GPE;GPE.City	NAM	1.0
+NIST	annotation-87	plant	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:2330-2334	San Antonio plant	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NOM	1.0
+NIST	annotation-88	people	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:2351-2356	San Antonio employees	PER	NOM	1.0
+NIST	annotation-89	people	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:2387-2392	independent employees	PER	NOM	1.0
+NIST	annotation-90	suppliers	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:2418-2426	independent suppliers	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NOM	1.0
+NIST	annotation-91	its	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:2431-2433	Toyota	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NAM	1.0
+NIST	annotation-92	site	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:2441-2444	San Antonio plant	FAC	NOM	1.0
+NIST	annotation-93	White House	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:2451-2461	White House	ORG;ORG.Government;ORG.Government.Administration	NAM	1.0
+NIST	annotation-94	United States	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:2483-2495	United States	GPE;GPE.Country	NAM	1.0
+NIST	annotation-95	vehicles	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:2531-2538	automotive vehicles this year	VEH;VEH.WheeledVehicle;VEH.WheeledVehicle.MotorVehicle	NOM	1.0
+NIST	annotation-96	most	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:2555-2558	automotive vehicles this year	VEH;VEH.WheeledVehicle;VEH.WheeledVehicle.MotorVehicle	NOM	1.0
+NIST	annotation-97	suppliers	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:2589-2597	suppliers	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NOM	1.0
+NIST	annotation-98	Millenium	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:2604-2612	Millenium Steel	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NAM	1.0
+NIST	annotation-99	Millenium	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:2619-2627	Millenium Steel	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NAM	1.0
+NIST	annotation-100	American	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:2661-2668	United States	GPE;GPE.Country	NAM	1.0
+NIST	annotation-101	U.S.	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:2685-2688	United States	GPE;GPE.Country	NAM	1.0
+NIST	annotation-102	companies	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:2696-2704	US steel companies	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NOM	1.0
+NIST	annotation-103	companies	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:2728-2736	Millenium-like companies	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NOM	1.0
+NIST	annotation-104	Millenium	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:2743-2751	Millenium Steel	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NAM	1.0
+NIST	annotation-105	Chinese	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:2825-2831	China	GPE;GPE.Country	NAM	1.0
+NIST	annotation-106	American Iron and Steel Institute	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:2864-2896	American Iron and Steel Institute	ORG;ORG.Association;ORG.Association.TradeAssociation	NAM	1.0
+NIST	annotation-107	U.S.	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:2899-2902	United States	GPE;GPE.Country	NAM	1.0
+NIST	annotation-108	makers	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:2910-2915	US steel companies	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NOM	1.0
+NIST	annotation-109	American	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:3192-3199	United States	GPE;GPE.Country	NAM	1.0
+NIST	annotation-110	White House	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:3368-3378	White House	ORG;ORG.Government;ORG.Government.Administration	NAM	1.0
+NIST	annotation-111	U.S.	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:3404-3407	United States	GPE;GPE.Country	NAM	1.0
+NIST	annotation-112	foundries	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:3424-3432	steel and iron foundries	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.Manufacturer	NOM	1.0
+NIST	annotation-113	jobs	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:3469-3472	steel and iron foundries jobs	PER	NOM	1.0
+NIST	annotation-114	Thomas J. Gibson	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:3475-3490	Thomas J. Gibson	PER;PER.Executive;PER.Executive.BusinessExecutive	NAM	1.0
+NIST	annotation-115	president	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:3493-3501	Thomas J. Gibson	PER;PER.Executive	NOM	1.0
+NIST	annotation-116	American Iron and Steel Institute	20141003_WAPO_44866b1f117b7f336d0b664eb7f178e7:3510-3542	American Iron and Steel Institute	ORG;ORG.AdvocacyGroup	NAM	1.0
+NIST	annotation-0	leaders	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:7-13	Jewish	PER;PER.ReligiousLeader	NOM	1.0
+NIST	annotation-1	Argentina	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:18-26	Argentina	GPE;GPE.Country	NAM	1.0
+NIST	annotation-2	BUENOS AIRES	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:100-111	Buenos Aires, Argentina	GPE;GPE.City	NAM	1.0
+NIST	annotation-3	Argentina	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:115-123	Argentina	GPE;GPE.Country	NAM	1.0
+NIST	annotation-4	population	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:148-157	Argentina Jewish	PER	NOM	1.0
+NIST	annotation-5	Latin America	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:162-174	Latin America	LOC;LOC.Region	NAM	1.0
+NIST	annotation-6	people	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:206-211	Argentina Jewish	PER	NOM	1.0
+NIST	annotation-7	Foreign Ministry	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:227-242	Foreign Ministry	ORG;ORG.Government;ORG.Government.Ministry	NAM	1.0
+NIST	annotation-8	its	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:250-252	Argentina	GPE;GPE.Country	PRO	1.0
+NIST	annotation-9	country	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:315-321	Argentina	GPE;GPE.Country	NOM	1.0
+NIST	annotation-10	organization	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:347-358	DAIA	ORG;ORG.Association	NOM	1.0
+NIST	annotation-11	government	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:408-417	Argentina government	ORG;ORG.Government	NOM	1.0
+NIST	annotation-12	community	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:434-442	Argentina Jewish	PER	NOM	1.0
+NIST	annotation-13	here	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:444-447	Argentina	GPE;GPE.Country	PRO	1.0
+NIST	annotation-14	prosecutor	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:517-526	Alberto Nisman	PER;PER.CivilServant	NOM	1.0
+NIST	annotation-15	Alberto Nisman	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:529-542	Alberto Nisman	PER;PER.Professional;PER.Professional.Lawyer;PER.CivilServant	NAM	1.0
+NIST	annotation-16	Nisman	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:576-581	Alberto Nisman	PER;PER.CivilServant	NAM	1.0
+NIST	annotation-17	center	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:659-664	AMIA	FAC;FAC.Building;ORG;ORG.Association	NOM	1.0
+NIST	annotation-18	AMIA	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:666-669	AMIA	ORG;ORG.Association;FAC;FAC.Building	NAM	1.0
+NIST	annotation-19	Argentine Israelite Mutual Association	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:701-738	AMIA-Argentine Israelite Mutual Association	ORG;ORG.Association;FAC;FAC.Building	NAM	1.0
+NIST	annotation-20	Nisman	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:756-761	Alberto Nisman	PER;PER.CivilServant	NAM	1.0
+NIST	annotation-21	his	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:806-808	Alberto Nisman	PER;PER.CivilServant	PRO	1.0
+NIST	annotation-22	government	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:814-823	Argentina government	ORG;ORG.Government	NOM	1.0
+NIST	annotation-23	which	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:826-830	Argentina government	ORG;ORG.Government	PRO	1.0
+NIST	annotation-24	he	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:832-833	Alberto Nisman	PER;PER.CivilServant	PRO	1.0
+NIST	annotation-25	Iranian	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:903-909	Iran / Iranian	GPE;GPE.Country	NAM	1.0
+NIST	annotation-26	officials	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:911-919	Iranian officials blamed	PER;PER.CivilServant	NOM	1.0
+NIST	annotation-27	His	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:931-933	Alberto Nisman	PER;PER.SituationalRole.Victim	PRO	1.0
+NIST	annotation-28	Cristina Fernandez de Kirchner	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:965-994	President Cristina Fernandez de Kirchner	PER;PER.Politician;PER.Politician.HeadOfGovernment	NAM	1.0
+NIST	annotation-29	others	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:1000-1005	other Argentina officials	PER;PER.CivilServant	PRO	1.0
+NIST	annotation-30	his	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:1028-1030	Alberto Nisman	PER;PER.SituationalRole.Victim	PRO	1.0
+NIST	annotation-31	leaders	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:1073-1079	Argentina Jewish leaders	PER	NOM	1.0
+NIST	annotation-32	people	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:1127-1132	people generic	PER	NOM	1.0
+NIST	annotation-33	their	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:1155-1159	people generic	PER	PRO	1.0
+NIST	annotation-34	Waldo Wolff	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:1171-1181	Waldo Wolff	PER;PER.Executive	NAM	1.0
+NIST	annotation-35	president	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:1189-1197	Waldo Wolff	PER;PER.Executive	NOM	1.0
+NIST	annotation-36	group	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:1215-1219	DAIA	ORG;ORG.Association	NOM	1.0
+NIST	annotation-37	country	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:1228-1234	Argentina	GPE;GPE.Country	NOM	1.0
+NIST	annotation-38	organizations	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:1245-1257	Argentina Jewish orgs	ORG	NOM	1.0
+NIST	annotation-39	Delegation of Argentine Israelite Associations	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:1260-1305	DAIA	ORG;ORG.Association	NAM	1.0
+NIST	annotation-40	DAIA	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:1308-1311	DAIA	ORG;ORG.Association	NAM	1.0
+NIST	annotation-41	part	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:1373-1376	much FM staff	PER;PER.CivilServant	NOM	1.0
+NIST	annotation-42	Foreign Ministry	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:1385-1400	Foreign Ministry	ORG;ORG.Government;ORG.Government.Ministry	NAM	1.0
+NIST	annotation-43	he	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:1445-1446	Waldo Wolff	PER;PER.Executive	PRO	1.0
+NIST	annotation-44	Iran	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:1468-1471	Iran / Iranian	GPE;GPE.Country	NAM	1.0
+NIST	annotation-45	people	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:1479-1484	many AMIA & DAIA members	PER	NOM	1.0
+NIST	annotation-46	AMIA	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:1489-1492	AMIA	ORG;ORG.Association	NAM	1.0
+NIST	annotation-47	DAIA	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:1498-1501	Delegation of Argentine Israelite Associations	ORG;ORG.Association	NAM	1.0
+NIST	annotation-48	Nisman	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:1508-1513	Alberto Nisman	PER;PER.CivilServant	NAM	1.0
+NIST	annotation-49	him	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:1546-1548	Alberto Nisman	PER;PER.CivilServant	PRO	1.0
+NIST	annotation-50	he	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:1554-1555	Alberto Nisman	PER;PER.CivilServant	PRO	1.0
+NIST	annotation-51	prosecutors	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:1569-1579	prosecutors	PER;PER.CivilServant	NOM	1.0
+NIST	annotation-52	team	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:1582-1585	prosecutors' team	ORG;ORG.Government	NOM	1.0
+NIST	annotation-53	Several	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:1619-1625	several AMIA & DAIA members	PER	PRO	1.0
+NIST	annotation-54	Nisman	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:1634-1639	Alberto Nisman	PER;PER.CivilServant	NAM	1.0
+NIST	annotation-55	who	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:1643-1645	Alberto Nisman	PER;PER.CivilServant	PRO	1.0
+NIST	annotation-56	community	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:1707-1715	Jewish orgs	ORG;ORG.ReligiousOrganization	NOM	1.0
+NIST	annotation-57	Argentina	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:1861-1869	Argentina	GPE;GPE.Country	NAM	1.0
+NIST	annotation-58	Marta Nercellas	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:1878-1892	Marta Nercellas, Attorney	PER;PER.Professional;PER.Professional.Lawyer	NAM	1.0
+NIST	annotation-59	AMIA	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:1918-1921	AMIA	ORG;ORG.Association	NAM	1.0
+NIST	annotation-60	society	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:1952-1958	Argentina people	PER	NOM	1.0
+NIST	annotation-61	state	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:1975-1979	Argentina government	ORG;ORG.Government	NOM	1.0
+NIST	annotation-62	him	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:2034-2036	Alberto Nisman	PER;PER.CivilServant	PRO	1.0
+NIST	annotation-63	organization	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:2064-2075	AMIA	ORG;ORG.Association	NOM	1.0
+NIST	annotation-64	leadership	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:2079-2088	AMIA leaders	PER;PER.Executive	NOM	1.0
+NIST	annotation-65	Nisman	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:2105-2110	Alberto Nisman	PER;PER.CivilServant	NAM	1.0
+NIST	annotation-66	suspects	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:2189-2196	bombing suspects	PER;PER.SituationalRole.Suspect	NOM	1.0
+NIST	annotation-67	Nisman	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:2235-2240	Alberto Nisman	PER;PER.CivilServant	NAM	1.0
+NIST	annotation-68	members	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:2259-2265	some members of Jewish orgs	PER	NOM	1.0
+NIST	annotation-69	organizations	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:2281-2293	Argentina Jewish orgs	ORG	NOM	1.0
+NIST	annotation-70	Nisman	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:2308-2313	Alberto Nisman	PER;PER.CivilServant	NAM	1.0
+NIST	annotation-71	government	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:2348-2357	Argentina government	ORG;ORG.Government	NOM	1.0
+NIST	annotation-72	leaders	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:2367-2373	Argentina Jewish leaders	PER;PER.Executive	NOM	1.0
+NIST	annotation-73	here	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:2375-2378	Argentina	GPE;GPE.Country	PRO	1.0
+NIST	annotation-74	memorandum	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:2401-2410	2003 memorandum	Document;Document.LegalDocument	NOM	1.0
+NIST	annotation-75	Argentina	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:2437-2445	Argentina	GPE;GPE.Country	NAM	1.0
+NIST	annotation-76	Iran	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:2451-2454	Iran / Iranian	GPE;GPE.Country	NAM	1.0
+NIST	annotation-77	Fernandez	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:2489-2497	President Cristina Fernandez de Kirchner	PER;PER.Politician;PER.Politician.HeadOfGovernment	NAM	1.0
+NIST	annotation-78	others	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:2574-2579	other people	PER	PRO	1.0
+NIST	annotation-79	Nisman	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:2592-2597	Alberto Nisman	PER;PER.CivilServant	NAM	1.0
+NIST	annotation-80	perpetrators	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:2628-2639	bombing suspects	PER;PER.SituationalRole.Suspect	NOM	1.0
+NIST	annotation-81	agreement	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:2658-2666	2003 memorandum	Document;Document.LegalDocument	NOM	1.0
+NIST	annotation-82	Iran	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:2673-2676	Iran / Iranian	GPE;GPE.Country	NAM	1.0
+NIST	annotation-83	Jorge Kirszenbaum	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:2720-2736	Jorge Kirszenbaum, former DAIA	PER;PER.Executive	NAM	1.0
+NIST	annotation-84	head	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:2746-2749	Jorge Kirszenbaum, former DAIA	PER;PER.Executive	NOM	1.0
+NIST	annotation-85	DAIA	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:2754-2757	DAIA	ORG;ORG.Association	NAM	1.0
+NIST	annotation-86	memorandum	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:2770-2779	2003 memorandum	Document;Document.LegalDocument	NOM	1.0
+NIST	annotation-87	Kirszenbaum	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:2791-2801	Jorge Kirszenbaum, former DAIA	PER;PER.Executive	NAM	1.0
+NIST	annotation-88	he	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:2808-2809	Jorge Kirszenbaum, former DAIA	PER;PER.Executive	PRO	1.0
+NIST	annotation-89	letter	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:2819-2824	letter	Document	NOM	1.0
+NIST	annotation-90	his	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:2829-2831	Jorge Kirszenbaum, former DAIA	PER;PER.Executive	PRO	1.0
+NIST	annotation-91	organization	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:2833-2844	DAIA	ORG;ORG.Association	NOM	1.0
+NIST	annotation-92	it	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:2864-2865	DAIA	ORG;ORG.Association	PRO	1.0
+NIST	annotation-93	Hector Timerman	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:2903-2917	Hector Timerman, Foreign Minister	PER;PER.CivilServant;PER.CivilServant.Minister	NAM	1.0
+NIST	annotation-94	minister	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:2932-2939	Hector Timerman, Foreign Minister	PER;PER.CivilServant;PER.CivilServant.Minister	NOM	1.0
+NIST	annotation-95	Nisman	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:2942-2947	Alberto Nisman	PER;PER.SituationalRole.Victim	NAM	1.0
+NIST	annotation-96	Argentine	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:2979-2987	Argentina	GPE;GPE.Country	NAM	1.0
+NIST	annotation-97	government	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:2989-2998	Argentina government	ORG;ORG.Government	NOM	1.0
+NIST	annotation-98	he	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:3037-3038	Alberto Nisman	PER;PER.CivilServant;PER.SituationalRole.Victim	PRO	1.0
+NIST	annotation-99	Nisman	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:3054-3059	Alberto Nisman	PER;PER.SituationalRole.Victim	NAM	1.0
+NIST	annotation-100	Timerman	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:3073-3080	Hector Timerman, Foreign Minister	PER;PER.CivilServant	NAM	1.0
+NIST	annotation-101	son	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:3084-3086	Hector Timerman, Foreign Minister	PER;PER.CivilServant	NOM	1.0
+NIST	annotation-102	Jacobo Timerman	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:3091-3105	Jacobo Timerman	PER;PER.Professional;PER.Professional.Journalist	NAM	1.0
+NIST	annotation-103	journalist	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:3119-3128	Jacobo Timerman	PER;PER.Professional;PER.Professional.Journalist	NOM	1.0
+NIST	annotation-104	who	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:3142-3144	Jacobo Timerman	PER;PER.Professional;PER.Professional.Journalist	PRO	1.0
+NIST	annotation-105	Argentina	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:3179-3187	Argentina	GPE;GPE.Country	NAM	1.0
+NIST	annotation-106	Iranian	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:3261-3267	Iran / Iranian	GPE;GPE.Country	NAM	1.0
+NIST	annotation-107	officials	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:3269-3277	negotiating Iranian officials	PER;PER.CivilServant	NOM	1.0
+NIST	annotation-108	Hector Timerman	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:3317-3331	Hector Timerman, Foreign Minister	PER;PER.CivilServant	NAM	1.0
+NIST	annotation-109	community	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:3365-3373	Argentina Jewish	PER	NOM	1.0
+NIST	annotation-110	him	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:3394-3396	Hector Timerman, Foreign Minister	PER	PRO	1.0
+NIST	annotation-111	Kirszenbaum	20150127_WAPO_d18bdeeb4a0eba84b95c1a59403701d3:3400-3410	Jorge Kirszenbaum, former DAIA	PER	NAM	1.0
+NIST	annotation-0	teenager	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:6-13	Alecia Faith Pennington	PER	NOM	1.0
+NIST	annotation-1	her	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:41-43	Alecia Faith Pennington	PER	PRO	1.0
+NIST	annotation-2	Texas	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:76-80	Texas / Texan	GPE;GPE.ProvinceState	NAM	1.0
+NIST	annotation-3	bill	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:82-85	bill / legislation	LAW;LAW.Bill	NOM	1.0
+NIST	annotation-4	Alecia Faith Pennington	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:131-153	Alecia Faith Pennington	PER	NAM	1.0
+NIST	annotation-5	herself	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:165-171	Alecia Faith Pennington	PER	PRO	1.0
+NIST	annotation-6	she	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:239-241	Alecia Faith Pennington	PER	PRO	1.0
+NIST	annotation-7	YouTube	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:256-262	YouTube	APP;APP.CommunicationSoftware;APP.CommunicationSoftware.SocialMedia	NAM	1.0
+NIST	annotation-8	Pennington	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:276-285	Alecia Faith Pennington	PER	NAM	1.0
+NIST	annotation-9	her	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:292-294	Alecia Faith Pennington	PER	PRO	1.0
+NIST	annotation-10	parents	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:296-302	Pennington parents	PER	NOM	1.0
+NIST	annotation-11	certificate	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:327-337	Pennington birth certificate	Document;Document.LegalDocument;Document.LegalDocument.Certificate	NOM	1.0
+NIST	annotation-12	her	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:371-373	Alecia Faith Pennington	PER	PRO	1.0
+NIST	annotation-13	her	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:389-391	Alecia Faith Pennington	PER	PRO	1.0
+NIST	annotation-14	my	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:416-417	Alecia Faith Pennington	PER	PRO	1.0
+NIST	annotation-15	her	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:434-436	Alecia Faith Pennington	PER	PRO	1.0
+NIST	annotation-16	U.S.	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:438-441	U.S.	GPE;GPE.Country	NAM	1.0
+NIST	annotation-17	she	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:464-466	Alecia Faith Pennington	PER	PRO	1.0
+NIST	annotation-18	she	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:487-489	Alecia Faith Pennington	PER	PRO	1.0
+NIST	annotation-19	19-year-old	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:535-545	Alecia Faith Pennington	PER	NOM	1.0
+NIST	annotation-20	she	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:558-560	Alecia Faith Pennington	PER	PRO	1.0
+NIST	annotation-21	licence	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:620-626	Pennington driver's license	Document;Document.LegalDocument;Document.LegalDocument.PersonalIdentification	NOM	1.0
+NIST	annotation-22	Pennington	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:651-660	Alecia Faith Pennington	PER	NAM	1.0
+NIST	annotation-23	her	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:690-692	Alecia Faith Pennington	PER	PRO	1.0
+NIST	annotation-24	parents	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:694-700	Pennington parents	PER	NOM	1.0
+NIST	annotation-25	affidavit	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:726-734	Pennington affidavit	Document;Document.LegalDocument	NOM	1.0
+NIST	annotation-26	that	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:736-739	Pennington affidavit	Document;Document.LegalDocument	PRO	1.0
+NIST	annotation-27	her	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:752-754	Alecia Faith Pennington	PER	PRO	1.0
+NIST	annotation-28	her	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:762-764	Alecia Faith Pennington	PER	PRO	1.0
+NIST	annotation-29	place	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:766-770	Texas / Texan	GPE;GPE.ProvinceState	NOM	1.0
+NIST	annotation-30	her	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:790-792	Alecia Faith Pennington	PER	PRO	1.0
+NIST	annotation-31	Texas	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:832-836	Texas / Texan	GPE;GPE.ProvinceState	NAM	1.0
+NIST	annotation-32	legislator	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:838-847	Rep. Marsha Farney	PER;PER.Politician;PER.Politician.Legislator	NOM	1.0
+NIST	annotation-33	bill	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:862-865	bill / legislation	LAW;LAW.Bill	NOM	1.0
+NIST	annotation-34	bill	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:894-897	bill / legislation	LAW;LAW.Bill	NOM	1.0
+NIST	annotation-35	Pennington	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:912-921	Alecia Faith Pennington	PER	NAM	1.0
+NIST	annotation-36	she	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:970-972	Alecia Faith Pennington	PER	PRO	1.0
+NIST	annotation-37	she	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:979-981	Alecia Faith Pennington	PER	PRO	1.0
+NIST	annotation-38	she	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:1000-1002	Alecia Faith Pennington	PER	PRO	1.0
+NIST	annotation-39	her	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:1021-1023	Alecia Faith Pennington	PER	PRO	1.0
+NIST	annotation-40	It	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:1042-1043	bill / legislation	LAW;LAW.Bill	PRO	1.0
+NIST	annotation-41	individuals	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:1057-1067	generic person	PER	NOM	1.0
+NIST	annotation-42	certificate	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:1101-1111	delayed birth certificate	Document;Document.LegalDocument;Document.LegalDocument.Certificate	NOM	1.0
+NIST	annotation-43	county	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:1120-1125	county living	GPE;GPE.County	NOM	1.0
+NIST	annotation-44	where	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:1127-1131	county living	GPE;GPE.County	PRO	1.0
+NIST	annotation-45	they	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:1133-1136	generic person	PER	PRO	1.0
+NIST	annotation-46	county	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:1163-1168	county born	GPE;GPE.County	NOM	1.0
+NIST	annotation-47	which	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:1173-1177	county born	GPE;GPE.County	PRO	1.0
+NIST	annotation-48	they	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:1179-1182	generic person	PER	PRO	1.0
+NIST	annotation-49	parent	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:1237-1242	generic parent	PER	NOM	1.0
+NIST	annotation-50	affidavit	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:1265-1273	generic affidavit	Document;Document.LegalDocument	NOM	1.0
+NIST	annotation-51	their	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:1283-1287	generic parent	PER	PRO	1.0
+NIST	annotation-52	child	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:1289-1293	generic child	PER	NOM	1.0
+NIST	annotation-53	certificate	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:1318-1328	delayed birth certificate	Document;Document.LegalDocument;Document.LegalDocument.Certificate	NOM	1.0
+NIST	annotation-54	bill	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:1337-1340	bill / legislation	LAW;LAW.Bill	NAM	1.0
+NIST	annotation-55	people	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:1376-1381	generic person	PER	NOM	1.0
+NIST	annotation-56	Faith	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:1388-1392	Alecia Faith Pennington	PER	NAM	1.0
+NIST	annotation-57	certificate	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:1417-1427	delayed birth certificate	Document;Document.LegalDocument;Document.LegalDocument.Certificate	NOM	1.0
+NIST	annotation-58	David Glenn	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:1431-1441	David Glenn	PER;PER.CivilServant	NAM	1.0
+NIST	annotation-59	director	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:1456-1463	David Glenn	PER;PER.CivilServant	NOM	1.0
+NIST	annotation-60	Texas	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:1469-1473	Texas / Texan	GPE;GPE.ProvinceState	NAM	1.0
+NIST	annotation-61	Marsha Farney	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:1480-1492	Rep. Marsha Farney	PER;PER.Politician;PER.Politician.Legislator	NAM	1.0
+NIST	annotation-62	R	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:1495-1495	Republicans	ORG;ORG.PoliticalOrganization;ORG.PoliticalOrganization.Party	NAM	1.0
+NIST	annotation-63	e-mail	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:1510-1515	Glenn email	Document	NOM	1.0
+NIST	annotation-64	measure	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:1527-1533	bill / legislation	LAW;LAW.Bill	NOM	1.0
+NIST	annotation-65	Faith	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:1590-1594	Alecia Faith Pennington	PER	NAM	1.0
+NIST	annotation-66	her	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:1604-1606	Alecia Faith Pennington	PER	PRO	1.0
+NIST	annotation-67	court	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:1633-1637	Pennington's county court	ORG;ORG.Court;ORG.Court.LocalCourt	NOM	1.0
+NIST	annotation-68	her	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:1723-1725	Alecia Faith Pennington	PER	PRO	1.0
+NIST	annotation-69	parents	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:1727-1733	Pennington parents	PER	NOM	1.0
+NIST	annotation-70	affidavit	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:1747-1755	Pennington affidavit	Document;Document.LegalDocument	NOM	1.0
+NIST	annotation-71	Farney	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:1777-1782	Rep. Marsha Farney	PER;PER.Politician;PER.Politician.Legislator	NAM	1.0
+NIST	annotation-72	bill	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:1786-1789	bill / legislation	LAW;LAW.Bill	NOM	1.0
+NIST	annotation-73	Pennington	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:1837-1846	Alecia Faith Pennington	PER	NAM	1.0
+NIST	annotation-74	those	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:1896-1900	generic person	PER	PRO	1.0
+NIST	annotation-75	who	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:1902-1904	generic person	PER	PRO	1.0
+NIST	annotation-76	U.S.	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:1911-1914	U.S.	GPE;GPE.Country	NAM	1.0
+NIST	annotation-77	Pennington	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:2058-2067	Alecia Faith Pennington	PER	NAM	1.0
+NIST	annotation-78	family	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:2071-2076	Pennington family	PER	NOM	1.0
+NIST	annotation-79	U.S	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:2130-2132	U.S.	GPE;GPE.Country	NAM	1.0
+NIST	annotation-80	children	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:2140-2147	immigrant children	PER	NOM	1.0
+NIST	annotation-81	immigrants	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:2152-2161	immigrants	PER	NOM	1.0
+NIST	annotation-82	their	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:2169-2173	immigrant children	PER	PRO	1.0
+NIST	annotation-83	Texans	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:2199-2204	Texan	PER	NOM	1.0
+NIST	annotation-84	certificates	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:2220-2231	generic birth cirtificate	Document;Document.LegalDocument;Document.LegalDocument.Certificate	NOM	1.0
+NIST	annotation-85	certificate	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:2264-2274	delayed birth certificate	Document;Document.LegalDocument;Document.LegalDocument.Certificate	NOM	1.0
+NIST	annotation-86	county	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:2304-2309	county born	GPE;GPE.County	NOM	1.0
+NIST	annotation-87	they	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:2320-2323	Texan	PER	PRO	1.0
+NIST	annotation-88	Pennington	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:2336-2345	Alecia Faith Pennington	PER	NAM	1.0
+NIST	annotation-89	she	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:2363-2365	Alecia Faith Pennington	PER	PRO	1.0
+NIST	annotation-90	judge	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:2375-2379	judge	PER;PER.CivilServant;PER.CivilServant.Judge	NOM	1.0
+NIST	annotation-91	her	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:2386-2388	Alecia Faith Pennington	PER	PRO	1.0
+NIST	annotation-92	she	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:2406-2408	Alecia Faith Pennington	PER	PRO	1.0
+NIST	annotation-93	her	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:2417-2419	Alecia Faith Pennington	PER	PRO	1.0
+NIST	annotation-94	Pennington	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:2474-2483	Alecia Faith Pennington	PER	NAM	1.0
+NIST	annotation-95	certificate	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:2510-2520	affidavit / certificate / license	Document;Document.LegalDocument;Document.LegalDocument.Certificate	NOM	1.0
+NIST	annotation-96	affidavit	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:2526-2534	Pennington grandparents affidavit	Document;Document.LegalDocument	NOM	1.0
+NIST	annotation-97	her	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:2541-2543	Alecia Faith Pennington	PER	PRO	1.0
+NIST	annotation-98	grandmother	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:2545-2555	Pennington grandmother	PER	NOM	1.0
+NIST	annotation-99	doctor	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:2563-2568	doctor	PER;PER.Professional;PER.Professional.HealthProfessional	NOM	1.0
+NIST	annotation-100	statement	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:2572-2580	doctor statement	Document	NOM	1.0
+NIST	annotation-101	Pennington	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:2592-2601	Alecia Faith Pennington	PER	NAM	1.0
+NIST	annotation-102	she	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:2639-2641	Alecia Faith Pennington	PER	PRO	1.0
+NIST	annotation-103	Pennington	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:2665-2674	Alecia Faith Pennington	PER	NAM	1.0
+NIST	annotation-104	she	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:2681-2683	Alecia Faith Pennington	PER	PRO	1.0
+NIST	annotation-105	her	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:2739-2741	Alecia Faith Pennington	PER	PRO	1.0
+NIST	annotation-106	her	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:2769-2771	Alecia Faith Pennington	PER	PRO	1.0
+NIST	annotation-107	Pennington	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:2791-2800	Alecia Faith Pennington	PER	NAM	1.0
+NIST	annotation-108	her	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:2803-2805	Alecia Faith Pennington	PER	PRO	1.0
+NIST	annotation-109	aunt	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:2807-2810	aunt	PER	NOM	1.0
+NIST	annotation-110	her	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:2817-2819	Alecia Faith Pennington	PER	PRO	1.0
+NIST	annotation-111	grandmother	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:2821-2831	Pennington grandmother	PER	NOM	1.0
+NIST	annotation-112	Farney	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:2842-2847	Rep. Marsha Farney	PER;PER.Politician;PER.Politician.Legislator	NAM	1.0
+NIST	annotation-113	Glenn	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:2850-2854	David Glenn	PER;PER.CivilServant	NAM	1.0
+NIST	annotation-114	we	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:2879-2880	Farney & Glenn	PER;PER.CivilServant;PER.Politician;PER.Politician.Legislator	PRO	1.0
+NIST	annotation-115	Faith	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:2902-2906	Alecia Faith Pennington	PER	NAM	1.0
+NIST	annotation-116	family	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:2910-2915	Pennington family	PER	NOM	1.0
+NIST	annotation-117	she	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:2925-2927	Alecia Faith Pennington	PER	PRO	1.0
+NIST	annotation-118	Glenn	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:2978-2982	David Glenn	PER;PER.CivilServant	NAM	1.0
+NIST	annotation-119	Farney	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:3028-3033	Rep. Marsha Farney	PER;PER.Politician;PER.Politician.Legislator	NAM	1.0
+NIST	annotation-120	office	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:3037-3042	Farney stuff	PER;PER.CivilServant	NOM	1.0
+NIST	annotation-121	legislation	20150312_WAPO_32494dd95dbc3f9e47c418ab88154d02:3063-3073	bill / legislation	LAW;LAW.Bill	NOM	1.0
+NIST	annotation-0	Islamic State	20150826_WAPO_dface323ab02c58de52a8e9465df839b:0-12	Islamic State	ORG;ORG.TerroristGroup	NAM	1.0
+NIST	annotation-1	Palmyra	20150826_WAPO_dface323ab02c58de52a8e9465df839b:41-47	Palmyra	GPE;GPE.City	NAM	1.0
+NIST	annotation-2	temple	20150826_WAPO_dface323ab02c58de52a8e9465df839b:49-54	Temple of Baal Shamin	FAC;FAC.Building;FAC.Building.PlaceOfWorship	NOM	1.0
+NIST	annotation-3	Islamic State	20150826_WAPO_dface323ab02c58de52a8e9465df839b:132-144	Islamic State	ORG;ORG.TerroristGroup	NAM	1.0
+NIST	annotation-4	Syrian	20150826_WAPO_dface323ab02c58de52a8e9465df839b:165-170	Syria	GPE;GPE.Country	NAM	1.0
+NIST	annotation-5	government	20150826_WAPO_dface323ab02c58de52a8e9465df839b:172-181	Syria	ORG;ORG.Government	NOM	1.0
+NIST	annotation-6	group	20150826_WAPO_dface323ab02c58de52a8e9465df839b:218-222	Islamic State	ORG;ORG.TerroristGroup	NOM	1.0
+NIST	annotation-7	Temple of Baal Shamin	20150826_WAPO_dface323ab02c58de52a8e9465df839b:248-268	Temple of Baal Shamin	FAC;FAC.Building;FAC.Building.PlaceOfWorship	NAM	1.0
+NIST	annotation-8	city	20150826_WAPO_dface323ab02c58de52a8e9465df839b:285-288	Palmyra	GPE;GPE.City	NOM	1.0
+NIST	annotation-9	Palmyra	20150826_WAPO_dface323ab02c58de52a8e9465df839b:293-299	Palmyra	GPE;GPE.City	NAM	1.0
+NIST	annotation-10	The Washington Post	20150826_WAPO_dface323ab02c58de52a8e9465df839b:306-324	The Washington Post	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.NewsAgency	NAM	1.0
+NIST	annotation-11	Justin Moyer	20150826_WAPO_dface323ab02c58de52a8e9465df839b:328-339	Justin Moyer	PER;PER.Professional;PER.Professional.Journalist	NAM	1.0
+NIST	annotation-12	temple	20150826_WAPO_dface323ab02c58de52a8e9465df839b:355-360	Temple of Baal Shamin	FAC;FAC.Building;FAC.Building.PlaceOfWorship	NOM	1.0
+NIST	annotation-13	which	20150826_WAPO_dface323ab02c58de52a8e9465df839b:362-366	Temple of Baal Shamin	FAC;FAC.Building;FAC.Building.PlaceOfWorship	PRO	1.0
+NIST	annotation-14	UNESCO	20150826_WAPO_dface323ab02c58de52a8e9465df839b:381-386	UNESCO	ORG;ORG.WorldOrganization	NAM	1.0
+NIST	annotation-15	Site	20150826_WAPO_dface323ab02c58de52a8e9465df839b:403-406	UNESCO WH site	LOC	NOM	1.0
+NIST	annotation-16	Islamic State	20150826_WAPO_dface323ab02c58de52a8e9465df839b:491-503	Islamic State	ORG;ORG.TerroristGroup	NAM	1.0
+NIST	annotation-17	temple	20150826_WAPO_dface323ab02c58de52a8e9465df839b:524-529	Temple of Baal Shamin	FAC;FAC.Building;FAC.Building.PlaceOfWorship	NAM	1.0
+NIST	annotation-18	Palmyra	20150826_WAPO_dface323ab02c58de52a8e9465df839b:534-540	Palmyra	GPE;GPE.City	NAM	1.0
+NIST	annotation-19	Syria	20150826_WAPO_dface323ab02c58de52a8e9465df839b:543-547	Syria	GPE;GPE.Country	NAM	1.0
+NIST	annotation-20	Islamic State	20150826_WAPO_dface323ab02c58de52a8e9465df839b:566-578	Islamic State	ORG;ORG.TerroristGroup	NAM	1.0
+NIST	annotation-21	site	20150826_WAPO_dface323ab02c58de52a8e9465df839b:614-617	Site (soc med)	APP;APP.CommunicationSoftware;APP.CommunicationSoftware.SocialMedia	NOM	1.0
+NIST	annotation-22	militants	20150826_WAPO_dface323ab02c58de52a8e9465df839b:630-638	Islamic State	ORG;ORG.TerroristGroup	NOM	1.0
+NIST	annotation-23	temple	20150826_WAPO_dface323ab02c58de52a8e9465df839b:668-673	Temple of Baal Shamin	FAC;FAC.Building;FAC.Building.PlaceOfWorship	NOM	1.0
+NIST	annotation-24	explosives	20150826_WAPO_dface323ab02c58de52a8e9465df839b:713-722	explosives	WEA;WEA.ExplosiveDevice	NOM	1.0
+NIST	annotation-25	structure	20150826_WAPO_dface323ab02c58de52a8e9465df839b:750-758	Temple of Baal Shamin	FAC;FAC.Building;FAC.Building.PlaceOfWorship	NOM	1.0
+NIST	annotation-26	temple	20150826_WAPO_dface323ab02c58de52a8e9465df839b:816-821	Temple of Baal Shamin	FAC;FAC.Building;FAC.Building.PlaceOfWorship	NOM	1.0
+NIST	annotation-27	The Post	20150826_WAPO_dface323ab02c58de52a8e9465df839b:836-843	The Washington Post	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.NewsAgency	NAM	1.0
+NIST	annotation-28	Ishaan Tharoor	20150826_WAPO_dface323ab02c58de52a8e9465df839b:847-860	Ishaan Tharoor	PER;PER.Professional;PER.Professional.Journalist	NAM	1.0
+NIST	annotation-29	United Nations	20150826_WAPO_dface323ab02c58de52a8e9465df839b:875-888	United Nations	ORG;ORG.WorldOrganization	NAM	1.0
+NIST	annotation-30	agency	20150826_WAPO_dface323ab02c58de52a8e9465df839b:900-905	UNESCO	ORG;ORG.WorldOrganization	NOM	1.0
+NIST	annotation-31	UNESCO	20150826_WAPO_dface323ab02c58de52a8e9465df839b:908-913	UNESCO	ORG;ORG.WorldOrganization	NAM	1.0
+NIST	annotation-32	temple	20150826_WAPO_dface323ab02c58de52a8e9465df839b:941-946	Temple of Baal Shamin	FAC;FAC.Building;FAC.Building.PlaceOfWorship	NOM	1.0
+NIST	annotation-33	Daesh	20150826_WAPO_dface323ab02c58de52a8e9465df839b:962-966	Islamic State	ORG;ORG.TerroristGroup	NAM	1.0
+NIST	annotation-34	explosives	20150826_WAPO_dface323ab02c58de52a8e9465df839b:995-1004	explosives	WEA;WEA.ExplosiveDevice	NOM	1.0
+NIST	annotation-35	temple of Baal Shamin	20150826_WAPO_dface323ab02c58de52a8e9465df839b:1013-1033	Temple of Baal Shamin	FAC;FAC.Building;FAC.Building.PlaceOfWorship	NAM	1.0
+NIST	annotation-36	it	20150826_WAPO_dface323ab02c58de52a8e9465df839b:1055-1056	Temple of Baal Shamin	FAC;FAC.Building;FAC.Building.PlaceOfWorship	PRO	1.0
+NIST	annotation-37	temple	20150826_WAPO_dface323ab02c58de52a8e9465df839b:1088-1093	Temple of Baal Shamin	FAC;FAC.Building;FAC.Building.PlaceOfWorship	NOM	1.0
+NIST	annotation-38	Maamoun Abdulkarim	20150826_WAPO_dface323ab02c58de52a8e9465df839b:1097-1114	Maamoun Abdulkarim	PER;PER.CivilServant	NAM	1.0
+NIST	annotation-39	Syria	20150826_WAPO_dface323ab02c58de52a8e9465df839b:1117-1121	Syria	GPE;GPE.Country	NAM	1.0
+NIST	annotation-40	chief	20150826_WAPO_dface323ab02c58de52a8e9465df839b:1137-1141	Maamoun Abdulkarim	PER;PER.CivilServant	NOM	1.0
+NIST	annotation-41	Agence France-Presse	20150826_WAPO_dface323ab02c58de52a8e9465df839b:1149-1168	Agence France-Presse	ORG;ORG.CommercialOrganization;ORG.CommercialOrganization.NewsAgency	NAM	1.0
+NIST	annotation-42	name	20150826_WAPO_dface323ab02c58de52a8e9465df839b:1195-1198	Islamic State	ORG;ORG.TerroristGroup	NOM	1.0
+NIST	annotation-43	Islamic State	20150826_WAPO_dface323ab02c58de52a8e9465df839b:1208-1220	Islamic State	ORG;ORG.TerroristGroup	NAM	1.0
+NIST	annotation-44	temple	20150826_WAPO_dface323ab02c58de52a8e9465df839b:1229-1234	Temple of Baal Shamin	FAC;FAC.Building;FAC.Building.PlaceOfWorship	NOM	1.0
+NIST	annotation-45	Palmyra	20150826_WAPO_dface323ab02c58de52a8e9465df839b:1312-1318	Palmyra	GPE;GPE.City	NAM	1.0
+NIST	annotation-46	Islamic State	20150826_WAPO_dface323ab02c58de52a8e9465df839b:1358-1370	Islamic State	ORG;ORG.TerroristGroup	NAM	1.0
+NIST	annotation-47	it	20150826_WAPO_dface323ab02c58de52a8e9465df839b:1386-1387	Palmyra	GPE;GPE.City	PRO	1.0
+NIST	annotation-48	Islamic State	20150826_WAPO_dface323ab02c58de52a8e9465df839b:1434-1446	Islamic State	ORG;ORG.TerroristGroup	NAM	1.0
+NIST	annotation-49	temple	20150826_WAPO_dface323ab02c58de52a8e9465df839b:1478-1483	Temple of Baal Shamin	FAC;FAC.Building;FAC.Building.PlaceOfWorship	NOM	1.0
+NIST	annotation-50	militants	20150826_WAPO_dface323ab02c58de52a8e9465df839b:1502-1510	Islamic State	ORG;ORG.TerroristGroup	NOM	1.0
+NIST	annotation-51	Palmyra	20150826_WAPO_dface323ab02c58de52a8e9465df839b:1532-1538	Palmyra	GPE;GPE.City	NAM	1.0
+NIST	annotation-52	city	20150826_WAPO_dface323ab02c58de52a8e9465df839b:1557-1560	Palmyra	GPE;GPE.City	NOM	1.0
+NIST	annotation-53	Palmyra	20150826_WAPO_dface323ab02c58de52a8e9465df839b:1565-1571	Palmyra	GPE;GPE.City	NAM	1.0
+NIST	annotation-54	Islamic State	20150826_WAPO_dface323ab02c58de52a8e9465df839b:1588-1600	Islamic State	ORG;ORG.TerroristGroup	NAM	1.0
+NIST	annotation-55	Palmyra	20150826_WAPO_dface323ab02c58de52a8e9465df839b:1628-1634	Palmyra	GPE;GPE.City	NAM	1.0
+NIST	annotation-56	Syrian	20150826_WAPO_dface323ab02c58de52a8e9465df839b:1649-1654	Syria	GPE;GPE.Country	NAM	1.0
+NIST	annotation-57	city	20150826_WAPO_dface323ab02c58de52a8e9465df839b:1656-1659	Palmyra	GPE;GPE.City	NOM	1.0
+NIST	annotation-58	Islamic State	20150826_WAPO_dface323ab02c58de52a8e9465df839b:1670-1682	Islamic State	ORG;ORG.TerroristGroup	NAM	1.0
+NIST	annotation-59	temple	20150826_WAPO_dface323ab02c58de52a8e9465df839b:1740-1745	Temple of Baal Shamin	FAC;FAC.Building;FAC.Building.PlaceOfWorship	NOM	1.0

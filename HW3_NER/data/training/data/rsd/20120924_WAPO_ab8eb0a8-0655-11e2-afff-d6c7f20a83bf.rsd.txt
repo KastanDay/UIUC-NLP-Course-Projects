@@ -1,0 +1,15 @@
+Facebook, Twitter and data access
+Monday, September 24, 2012 15:01:00 GMT-05:00
+Users will have a little more access to their social data, thanks to new features from Facebook and plans from Twitter announced last week.
+Facebook has begun allowing users to search and edit their site search history, the company said in a Friday announcement. Users will be able to view and edit their search history, which is not viewable for anyone other than users.
+The introduction of the additional feature has raised speculation about whether Facebook will be moving into the search space in the future, particularly given chief executive Mark Zuckerberg’s comment at TechCrunch Disrupt last week. Zuckerberg, as TechCrunch reports, said that his company will be looking at search “at some point” and that it has a team looking at the function.
+For now, though, it simply means that you have a little more control over your data on Facebook.
+Twitter also is moving toward giving users a little more data control. At last week’s Online News Association conference, Twitter chief executive Dick Costolo said that he’s pushing his developers to have a tool in place that lets users download all their tweets by the end of the year — if the technology permits.
+That feature is one that users of the service have long-requested, and one, GigaOm reported, that some are skeptical Twitter will deliver.
+In his comments on Costolo’s talk, prominent blogger Dave Winer said that if Twitter does let users download their tweets, he believes it will be in “GIF format or PDF,” or another format that will not let you take your data to another service.
+Other social networks, including Facebook and Google+ allow users to download some data from social networks to keep their own record of their activity on the services.
+(Washington Post Co. Chairman and chief executive Donald E. Graham is a member of Facebook’s board of directors.)
+Related stories:
+Twitter hands over records in Occupy Wall Street case, avoids steep fines by NYC judge
+Facebook stock falls after Barron’s says it’s ‘still too pricey’
+Facebook, Google, Amazon join forces in D.C. lobby

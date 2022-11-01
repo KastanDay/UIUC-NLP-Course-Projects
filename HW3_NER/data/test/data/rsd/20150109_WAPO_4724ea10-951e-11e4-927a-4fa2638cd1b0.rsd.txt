@@ -1,0 +1,12 @@
+At Georgetown Law, efforts to close gap between law, tech
+Friday, January 9, 2015 16:21:20 GMT-05:00
+Alvaro Bedoya knows firsthand what happens when old laws clash with new technology.
+When Bedoya was the top lawyer for the Senate Judiciary subcommittee that governs how companies can collect data about consumers, he was in charge of drafting changes to laws that were meant to protect consumers’ privacy — but that hadn’t kept up with technology.
+One of them was the Video Privacy Protection Act, passed in 1988 to prevent video rental stores from publicly sharing what videos their customers were watching. But the law did not take into account streaming services such as Netflix and Hulu because they didn’t exist at the time.
+“Streaming companies were starting to argue, ‘I’m not covered by this because I don’t sell videotapes,’” Bedoya said. “You can see how if you don’t craft privacy laws with an eye toward technology, that law is not going to last very long or be very effective ... We clarified that [the law] did cover this technology.”
+Law and policy are constantly trying to catch up to technology. Bedoya is now teaming with David Vladeck, former director of the Federal Trade Commission’s Consumer Protection Bureau, to try to shrink that gap.
+Bedoya and Vladeck, who are now professors at the Georgetown University Law Center, are leading the law school’s new partnership with MIT that aims to create a pipeline of future policymakers that are well-versed in both law and technology. The duo is teaching a new course this semester that pairs Georgetown law students with MIT engineering students, and tasks them with finding solutions to policy questions, such as how companies and the government should use facial recognition technology and retinal scans, and how health data collected by wearable fitness devices ought to be handled.
+The partnership, announced this week, is the first of its kind for the law school. So far, 12 Georgetown students and at least seven MIT engineering students have signed up for the course, Bedoya said.
+The partnership marks another step the law school is taking to better prepare its graduates in the rapidly growing area of privacy law. Last summer, the school lcreated a Center on Privacy and Technology, for which Bedoya is the executive director.
+More from Capital Business:
+For a daily rundown of Washington area business news, sign up for the “CapBiz A.M.” e-mail newsletter.

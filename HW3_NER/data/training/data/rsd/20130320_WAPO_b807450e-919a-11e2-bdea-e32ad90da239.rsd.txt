@@ -1,0 +1,19 @@
+Leukemia treatment shows good results in a handful of patients
+Wednesday, March 20, 2013 19:54:39 GMT-05:00
+A leukemia therapy in which a patient’s lymphocytes are genetically modified to attack the tumor cells causing the disease has shown dramatic effects in five patients, according to a new study.
+The treatment appeared to eliminate cancer cells that had grown back after initially being beaten down by chemotherapy. Patients were then able to undergo bone marrow transplants, a grueling but sometimes curative procedure.
+Might the “immunotherapy” have been curative on its own? That’s the biggest of several unanswered questions.
+“I’m banking on it,” said Renier J. Brentjens, an oncologist at Memorial Sloan-Kettering Cancer Center in New York, who led the study reported in Science Translational Medicine. “My goal is to remove bone marrow transplant as a requirement to treat this disease.”
+The four people had B-cell acute lymphoblastic leukemia, a blood cancer in which fewer than one-third of patients survive five years. All had gotten conventional chemotherapy, gone into temporary remission and then relapsed.
+“These patients have what we term virtually terminal illness, with survival measured in months,” Brentjens said.
+In the experimental treatment, immune system cells called T lymphocytes were filtered from the bloodstream of each patient. Using a virus to deliver the gene, the cells were then genetically altered so they carried on their surfaces a molecular receptor allowing them to attach to the leukemia cells.
+The lymphocytes were then infused back into the bloodstream. They homed in on the cancer cells and killed them. They also replicated, making more of themselves.
+In two patients, the effects were especially notable. Before the treatment, more than 60 percent of the cells in their bone marrow, where leukemia originates, were cancer cells. Eight days after the treatment, no cancer cells were seen under the microscope. Within two months, even the most sensitive molecular search couldn’t find any.
+Those two patients had a stormy course, however. In the process of killing billions of leukemia cells, the infused lymphocytes released a storm of hormones called cytokines, causing fever, blood pressure instability and other problems. Both patients spent time in intensive care.
+The plan all along was to have the patients undergo bone marrow transplants. Four of the five patients in the study did. One subsequently died of a blood clot in the lungs. The other three are alive, five to 24 months after their immunotherapy.
+“The obvious question is what would have happened if we did not give them a bone marrow transplant? Would we have cured them with the T cells alone? We don’t know the answer to that,” Brentjens said.
+The experience of another patient, a 59-year-old man, suggests the treatment isn’t curative.
+He had such a severe “cytokine storm” that the physicians gave him high-dose steroids to suppress his immune system. His cancer returned in three months. By that time, he was too ill for a bone marrow transplant and died.
+Steroids can kill T lymphocytes. They might have done so to the engineered lymphocytes before they had finished their work. Or perhaps those cells are able to only suppress the leukemia cells, not destroy them.
+Researchers at the University of Pennsylvania and the National Cancer Institute have used a similar strategy against a form of lymphoma and another type of leukemia.
+Brentjens said the task now is to learn whether it is better used early in treatment — perhaps between rounds of chemotherapy — or with multiple infusions later on if traditional treatment fails.

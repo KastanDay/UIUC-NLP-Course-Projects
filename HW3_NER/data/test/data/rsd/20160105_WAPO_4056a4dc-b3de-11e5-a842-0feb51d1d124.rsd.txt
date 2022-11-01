@@ -1,0 +1,21 @@
+Russian hackers suspected in attack that blacked out parts of Ukraine
+Tuesday, January 5, 2016 17:54:11 GMT-05:00
+U.S. Homeland Security and intelligence agencies are analyzing computer code from what appear to be one of the first known cyberattacks that resulted in an electrical power outage — this one in Ukraine.
+The Dec. 23 incidents, which lasted several hours and affected tens of thousands of people, were reported by Ukraine power authorities in the capital region and in the western part of the country.
+The power authorities said that control systems used to coordinate remote substations were disabled in the cyberattack.
+The United States has not publicly commented on the attack. Homeland Security and intelligence agency officials declined to comment.
+But private-sector analysts who have reviewed the malicious software see the attack as a rare instance in which a hacking incident involving an industrial control system has affected ordinary citizens.
+“That is a milestone in itself,’’ said John Hultquist, director of cyberespionage analysis for iSight Partners, a computer security firm.
+Privately, U.S. officials said it will take time to understand how the attack occurred.
+“What was the process that led up to that? Did we see any key indicators ahead of time?” said one U.S. official, who spoke on the condition of anonymity because the investigation is ongoing.
+The Ukrainian SBU security service blamed the attack on the Russian government. No one was available at the Russian Embassy in Washington to comment.
+Hultquist said his firm sees links between the malware used in the recent outages and a cyberespionage campaign against NATO and Western European government targets that iSight discovered in 2013 and that was conducted by a group of hackers in Russia whose interests aligned with the Russian government. The firm dubbed that group SandWorm.
+Since 2014, when Russia annexed Crimea and backed separatists in eastern Ukraine, iSight has documented instances of SandWorm infiltrating Ukrainian government computer systems as well as in the country’s telecommunications and energy industries.
+The strain of malware apparently used to gain access to the power system is similar to the one used by SandWorm in 2013 and 2014, iSight said.
+“We have high confidence that this [Ukrainian attack] is Russian in origin,” Hultquist said.
+Other private-sector analysts urged caution. “Attribution is difficult and requires time,” said Robert M. Lee, an expert in defending industrial control systems against cyberattacks who teaches at the SANS Institute, a cyber-training organization.
+Lee, who also has studied the code used in the attack, noted that analysts have not seen the malware that caused the power outage. Rather, the two sets of malware that they obtained were likely used to gain access to the system and perhaps to erase the attackers’ tracks.
+“We’re still missing what caused the attack,” Lee said in a SANS webcast Tuesday.
+Cyberattacks on critical infrastructure are rare, take much planning and are difficult to pull off. But when they succeed, as with the Stuxnet attack on Iran’s Natanz uranium enrichment plant — an unacknowledged strategic effort by the United States and Israel to slow Iran’s nuclear program — they can inflict great physical damage. In that case, nearly 1,000 centrifuges were reportedly damaged.
+The Ukrainian incident, by comparison, was of “low to moderate sophistication,” said Michael J. Assante, SANS Institute director of industrial control systems, in the webcast. There is “nothing here that is telling of a sophisticated attack.”
+The Russians have shown an interest in probing industrial control systems.

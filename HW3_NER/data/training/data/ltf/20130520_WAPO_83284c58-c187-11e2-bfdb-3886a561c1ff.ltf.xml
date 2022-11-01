@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="20130520_WAPO_83284c58-c187-11e2-bfdb-3886a561c1ff">
+		<TEXT>
+			<SEG end_char="43" id="20130520_WAPO_83284c58-c187-11e2-bfdb-3886a561c1ff-0" start_char="0">
+				<ORIGINAL_TEXT>Man charged with car fire, shooting building</ORIGINAL_TEXT>
+				<TOKEN end_char="2" id="token-0-0" start_char="0">Man</TOKEN>
+				<TOKEN end_char="10" id="token-0-1" start_char="4">charged</TOKEN>
+				<TOKEN end_char="15" id="token-0-2" start_char="12">with</TOKEN>
+				<TOKEN end_char="19" id="token-0-3" start_char="17">car</TOKEN>
+				<TOKEN end_char="24" id="token-0-4" start_char="21">fire</TOKEN>
+				<TOKEN end_char="25" id="token-0-5" start_char="25">,</TOKEN>
+				<TOKEN end_char="34" id="token-0-6" start_char="27">shooting</TOKEN>
+				<TOKEN end_char="43" id="token-0-7" start_char="36">building</TOKEN>
+			</SEG>
+			<SEG end_char="83" id="20130520_WAPO_83284c58-c187-11e2-bfdb-3886a561c1ff-1" start_char="45">
+				<ORIGINAL_TEXT>Monday, May 20, 2013 15:36:27 GMT-05:00</ORIGINAL_TEXT>
+				<TOKEN end_char="50" id="token-1-0" start_char="45">Monday</TOKEN>
+				<TOKEN end_char="51" id="token-1-1" start_char="51">,</TOKEN>
+				<TOKEN end_char="55" id="token-1-2" start_char="53">May</TOKEN>
+				<TOKEN end_char="58" id="token-1-3" start_char="57">20</TOKEN>
+				<TOKEN end_char="59" id="token-1-4" start_char="59">,</TOKEN>
+				<TOKEN end_char="64" id="token-1-5" start_char="61">2013</TOKEN>
+				<TOKEN end_char="67" id="token-1-6" start_char="66">15</TOKEN>
+				<TOKEN end_char="68" id="token-1-7" start_char="68">:</TOKEN>
+				<TOKEN end_char="70" id="token-1-8" start_char="69">36</TOKEN>
+				<TOKEN end_char="71" id="token-1-9" start_char="71">:</TOKEN>
+				<TOKEN end_char="73" id="token-1-10" start_char="72">27</TOKEN>
+				<TOKEN end_char="77" id="token-1-11" start_char="75">GMT</TOKEN>
+				<TOKEN end_char="78" id="token-1-12" start_char="78">-</TOKEN>
+				<TOKEN end_char="80" id="token-1-13" start_char="79">05</TOKEN>
+				<TOKEN end_char="81" id="token-1-14" start_char="81">:</TOKEN>
+				<TOKEN end_char="83" id="token-1-15" start_char="82">00</TOKEN>
+			</SEG>
+			<SEG end_char="259" id="20130520_WAPO_83284c58-c187-11e2-bfdb-3886a561c1ff-2" start_char="85">
+				<ORIGINAL_TEXT>An Alexandria man is facing multiple charges for allegedly torching a sedan and firing shots at an unoccupied office building in Fairfax County on Saturday night, police said.</ORIGINAL_TEXT>
+				<TOKEN end_char="86" id="token-2-0" start_char="85">An</TOKEN>
+				<TOKEN end_char="97" id="token-2-1" start_char="88">Alexandria</TOKEN>
+				<TOKEN end_char="101" id="token-2-2" start_char="99">man</TOKEN>
+				<TOKEN end_char="104" id="token-2-3" start_char="103">is</TOKEN>
+				<TOKEN end_char="111" id="token-2-4" start_char="106">facing</TOKEN>
+				<TOKEN end_char="120" id="token-2-5" start_char="113">multiple</TOKEN>
+				<TOKEN end_char="128" id="token-2-6" start_char="122">charges</TOKEN>
+				<TOKEN end_char="132" id="token-2-7" start_char="130">for</TOKEN>
+				<TOKEN end_char="142" id="token-2-8" start_char="134">allegedly</TOKEN>
+				<TOKEN end_char="151" id="token-2-9" start_char="144">torching</TOKEN>
+				<TOKEN end_char="153" id="token-2-10" start_char="153">a</TOKEN>
+				<TOKEN end_char="159" id="token-2-11" start_char="155">sedan</TOKEN>
+				<TOKEN end_char="163" id="token-2-12" start_char="161">and</TOKEN>
+				<TOKEN end_char="170" id="token-2-13" start_char="165">firing</TOKEN>
+				<TOKEN end_char="176" id="token-2-14" start_char="172">shots</TOKEN>
+				<TOKEN end_char="179" id="token-2-15" start_char="178">at</TOKEN>
+				<TOKEN end_char="182" id="token-2-16" start_char="181">an</TOKEN>
+				<TOKEN end_char="193" id="token-2-17" start_char="184">unoccupied</TOKEN>
+				<TOKEN end_char="200" id="token-2-18" start_char="195">office</TOKEN>
+				<TOKEN end_char="209" id="token-2-19" start_char="202">building</TOKEN>
+				<TOKEN end_char="212" id="token-2-20" start_char="211">in</TOKEN>
+				<TOKEN end_char="220" id="token-2-21" start_char="214">Fairfax</TOKEN>
+				<TOKEN end_char="227" id="token-2-22" start_char="222">County</TOKEN>
+				<TOKEN end_char="230" id="token-2-23" start_char="229">on</TOKEN>
+				<TOKEN end_char="239" id="token-2-24" start_char="232">Saturday</TOKEN>
+				<TOKEN end_char="245" id="token-2-25" start_char="241">night</TOKEN>
+				<TOKEN end_char="246" id="token-2-26" start_char="246">,</TOKEN>
+				<TOKEN end_char="253" id="token-2-27" start_char="248">police</TOKEN>
+				<TOKEN end_char="258" id="token-2-28" start_char="255">said</TOKEN>
+				<TOKEN end_char="259" id="token-2-29" start_char="259">.</TOKEN>
+			</SEG>
+			<SEG end_char="453" id="20130520_WAPO_83284c58-c187-11e2-bfdb-3886a561c1ff-3" start_char="261">
+				<ORIGINAL_TEXT>Officers and firefighters found a Toyota Camry fully engulfed in flames around 11:20 p.m. Saturday in the 5500 block of Cherokee Avenue in the Alexandria section of Fairfax County, police said.</ORIGINAL_TEXT>
+				<TOKEN end_char="268" id="token-3-0" start_char="261">Officers</TOKEN>
+				<TOKEN end_char="272" id="token-3-1" start_char="270">and</TOKEN>
+				<TOKEN end_char="285" id="token-3-2" start_char="274">firefighters</TOKEN>
+				<TOKEN end_char="291" id="token-3-3" start_char="287">found</TOKEN>
+				<TOKEN end_char="293" id="token-3-4" start_char="293">a</TOKEN>
+				<TOKEN end_char="300" id="token-3-5" start_char="295">Toyota</TOKEN>
+				<TOKEN end_char="306" id="token-3-6" start_char="302">Camry</TOKEN>
+				<TOKEN end_char="312" id="token-3-7" start_char="308">fully</TOKEN>
+				<TOKEN end_char="321" id="token-3-8" start_char="314">engulfed</TOKEN>
+				<TOKEN end_char="324" id="token-3-9" start_char="323">in</TOKEN>
+				<TOKEN end_char="331" id="token-3-10" start_char="326">flames</TOKEN>
+				<TOKEN end_char="338" id="token-3-11" start_char="333">around</TOKEN>
+				<TOKEN end_char="341" id="token-3-12" start_char="340">11</TOKEN>
+				<TOKEN end_char="342" id="token-3-13" start_char="342">:</TOKEN>
+				<TOKEN end_char="344" id="token-3-14" start_char="343">20</TOKEN>
+				<TOKEN end_char="346" id="token-3-15" start_char="346">p</TOKEN>
+				<TOKEN end_char="347" id="token-3-16" start_char="347">.</TOKEN>
+				<TOKEN end_char="348" id="token-3-17" start_char="348">m</TOKEN>
+				<TOKEN end_char="349" id="token-3-18" start_char="349">.</TOKEN>
+				<TOKEN end_char="358" id="token-3-19" start_char="351">Saturday</TOKEN>
+				<TOKEN end_char="361" id="token-3-20" start_char="360">in</TOKEN>
+				<TOKEN end_char="365" id="token-3-21" start_char="363">the</TOKEN>
+				<TOKEN end_char="370" id="token-3-22" start_char="367">5500</TOKEN>
+				<TOKEN end_char="376" id="token-3-23" start_char="372">block</TOKEN>
+				<TOKEN end_char="379" id="token-3-24" start_char="378">of</TOKEN>
+				<TOKEN end_char="388" id="token-3-25" start_char="381">Cherokee</TOKEN>
+				<TOKEN end_char="395" id="token-3-26" start_char="390">Avenue</TOKEN>
+				<TOKEN end_char="398" id="token-3-27" start_char="397">in</TOKEN>
+				<TOKEN end_char="402" id="token-3-28" start_char="400">the</TOKEN>
+				<TOKEN end_char="413" id="token-3-29" start_char="404">Alexandria</TOKEN>
+				<TOKEN end_char="421" id="token-3-30" start_char="415">section</TOKEN>
+				<TOKEN end_char="424" id="token-3-31" start_char="423">of</TOKEN>
+				<TOKEN end_char="432" id="token-3-32" start_char="426">Fairfax</TOKEN>
+				<TOKEN end_char="439" id="token-3-33" start_char="434">County</TOKEN>
+				<TOKEN end_char="440" id="token-3-34" start_char="440">,</TOKEN>
+				<TOKEN end_char="447" id="token-3-35" start_char="442">police</TOKEN>
+				<TOKEN end_char="452" id="token-3-36" start_char="449">said</TOKEN>
+				<TOKEN end_char="453" id="token-3-37" start_char="453">.</TOKEN>
+			</SEG>
+			<SEG end_char="699" id="20130520_WAPO_83284c58-c187-11e2-bfdb-3886a561c1ff-4" start_char="455">
+				<ORIGINAL_TEXT>A handgun and a gas can were discovered near the vehicle and it appeared shots had been fired both at the office building and within the building, Fairfax County police said. Police declined to name the office building or give its exact address.</ORIGINAL_TEXT>
+				<TOKEN end_char="455" id="token-4-0" start_char="455">A</TOKEN>
+				<TOKEN end_char="463" id="token-4-1" start_char="457">handgun</TOKEN>
+				<TOKEN end_char="467" id="token-4-2" start_char="465">and</TOKEN>
+				<TOKEN end_char="469" id="token-4-3" start_char="469">a</TOKEN>
+				<TOKEN end_char="473" id="token-4-4" start_char="471">gas</TOKEN>
+				<TOKEN end_char="477" id="token-4-5" start_char="475">can</TOKEN>
+				<TOKEN end_char="482" id="token-4-6" start_char="479">were</TOKEN>
+				<TOKEN end_char="493" id="token-4-7" start_char="484">discovered</TOKEN>
+				<TOKEN end_char="498" id="token-4-8" start_char="495">near</TOKEN>
+				<TOKEN end_char="502" id="token-4-9" start_char="500">the</TOKEN>
+				<TOKEN end_char="510" id="token-4-10" start_char="504">vehicle</TOKEN>
+				<TOKEN end_char="514" id="token-4-11" start_char="512">and</TOKEN>
+				<TOKEN end_char="517" id="token-4-12" start_char="516">it</TOKEN>
+				<TOKEN end_char="526" id="token-4-13" start_char="519">appeared</TOKEN>
+				<TOKEN end_char="532" id="token-4-14" start_char="528">shots</TOKEN>
+				<TOKEN end_char="536" id="token-4-15" start_char="534">had</TOKEN>
+				<TOKEN end_char="541" id="token-4-16" start_char="538">been</TOKEN>
+				<TOKEN end_char="547" id="token-4-17" start_char="543">fired</TOKEN>
+				<TOKEN end_char="552" id="token-4-18" start_char="549">both</TOKEN>
+				<TOKEN end_char="555" id="token-4-19" start_char="554">at</TOKEN>
+				<TOKEN end_char="559" id="token-4-20" start_char="557">the</TOKEN>
+				<TOKEN end_char="566" id="token-4-21" start_char="561">office</TOKEN>
+				<TOKEN end_char="575" id="token-4-22" start_char="568">building</TOKEN>
+				<TOKEN end_char="579" id="token-4-23" start_char="577">and</TOKEN>
+				<TOKEN end_char="586" id="token-4-24" start_char="581">within</TOKEN>
+				<TOKEN end_char="590" id="token-4-25" start_char="588">the</TOKEN>
+				<TOKEN end_char="599" id="token-4-26" start_char="592">building</TOKEN>
+				<TOKEN end_char="600" id="token-4-27" start_char="600">,</TOKEN>
+				<TOKEN end_char="608" id="token-4-28" start_char="602">Fairfax</TOKEN>
+				<TOKEN end_char="615" id="token-4-29" start_char="610">County</TOKEN>
+				<TOKEN end_char="622" id="token-4-30" start_char="617">police</TOKEN>
+				<TOKEN end_char="627" id="token-4-31" start_char="624">said</TOKEN>
+				<TOKEN end_char="628" id="token-4-32" start_char="628">.</TOKEN>
+				<TOKEN end_char="635" id="token-4-33" start_char="630">Police</TOKEN>
+				<TOKEN end_char="644" id="token-4-34" start_char="637">declined</TOKEN>
+				<TOKEN end_char="647" id="token-4-35" start_char="646">to</TOKEN>
+				<TOKEN end_char="652" id="token-4-36" start_char="649">name</TOKEN>
+				<TOKEN end_char="656" id="token-4-37" start_char="654">the</TOKEN>
+				<TOKEN end_char="663" id="token-4-38" start_char="658">office</TOKEN>
+				<TOKEN end_char="672" id="token-4-39" start_char="665">building</TOKEN>
+				<TOKEN end_char="675" id="token-4-40" start_char="674">or</TOKEN>
+				<TOKEN end_char="680" id="token-4-41" start_char="677">give</TOKEN>
+				<TOKEN end_char="684" id="token-4-42" start_char="682">its</TOKEN>
+				<TOKEN end_char="690" id="token-4-43" start_char="686">exact</TOKEN>
+				<TOKEN end_char="698" id="token-4-44" start_char="692">address</TOKEN>
+				<TOKEN end_char="699" id="token-4-45" start_char="699">.</TOKEN>
+			</SEG>
+			<SEG end_char="719" id="20130520_WAPO_83284c58-c187-11e2-bfdb-3886a561c1ff-5" start_char="701">
+				<ORIGINAL_TEXT>No one was injured.</ORIGINAL_TEXT>
+				<TOKEN end_char="702" id="token-5-0" start_char="701">No</TOKEN>
+				<TOKEN end_char="706" id="token-5-1" start_char="704">one</TOKEN>
+				<TOKEN end_char="710" id="token-5-2" start_char="708">was</TOKEN>
+				<TOKEN end_char="718" id="token-5-3" start_char="712">injured</TOKEN>
+				<TOKEN end_char="719" id="token-5-4" start_char="719">.</TOKEN>
+			</SEG>
+			<SEG end_char="955" id="20130520_WAPO_83284c58-c187-11e2-bfdb-3886a561c1ff-6" start_char="721">
+				<ORIGINAL_TEXT>Matthew Mehar, 30, was quickly developed as a suspect and was arrested. He was charged with shooting in public, arson, entering an alarmed building, damage to public property and use of a firearm in commission of a felony, police said.</ORIGINAL_TEXT>
+				<TOKEN end_char="727" id="token-6-0" start_char="721">Matthew</TOKEN>
+				<TOKEN end_char="733" id="token-6-1" start_char="729">Mehar</TOKEN>
+				<TOKEN end_char="734" id="token-6-2" start_char="734">,</TOKEN>
+				<TOKEN end_char="737" id="token-6-3" start_char="736">30</TOKEN>
+				<TOKEN end_char="738" id="token-6-4" start_char="738">,</TOKEN>
+				<TOKEN end_char="742" id="token-6-5" start_char="740">was</TOKEN>
+				<TOKEN end_char="750" id="token-6-6" start_char="744">quickly</TOKEN>
+				<TOKEN end_char="760" id="token-6-7" start_char="752">developed</TOKEN>
+				<TOKEN end_char="763" id="token-6-8" start_char="762">as</TOKEN>
+				<TOKEN end_char="765" id="token-6-9" start_char="765">a</TOKEN>
+				<TOKEN end_char="773" id="token-6-10" start_char="767">suspect</TOKEN>
+				<TOKEN end_char="777" id="token-6-11" start_char="775">and</TOKEN>
+				<TOKEN end_char="781" id="token-6-12" start_char="779">was</TOKEN>
+				<TOKEN end_char="790" id="token-6-13" start_char="783">arrested</TOKEN>
+				<TOKEN end_char="791" id="token-6-14" start_char="791">.</TOKEN>
+				<TOKEN end_char="794" id="token-6-15" start_char="793">He</TOKEN>
+				<TOKEN end_char="798" id="token-6-16" start_char="796">was</TOKEN>
+				<TOKEN end_char="806" id="token-6-17" start_char="800">charged</TOKEN>
+				<TOKEN end_char="811" id="token-6-18" start_char="808">with</TOKEN>
+				<TOKEN end_char="820" id="token-6-19" start_char="813">shooting</TOKEN>
+				<TOKEN end_char="823" id="token-6-20" start_char="822">in</TOKEN>
+				<TOKEN end_char="830" id="token-6-21" start_char="825">public</TOKEN>
+				<TOKEN end_char="831" id="token-6-22" start_char="831">,</TOKEN>
+				<TOKEN end_char="837" id="token-6-23" start_char="833">arson</TOKEN>
+				<TOKEN end_char="838" id="token-6-24" start_char="838">,</TOKEN>
+				<TOKEN end_char="847" id="token-6-25" start_char="840">entering</TOKEN>
+				<TOKEN end_char="850" id="token-6-26" start_char="849">an</TOKEN>
+				<TOKEN end_char="858" id="token-6-27" start_char="852">alarmed</TOKEN>
+				<TOKEN end_char="867" id="token-6-28" start_char="860">building</TOKEN>
+				<TOKEN end_char="868" id="token-6-29" start_char="868">,</TOKEN>
+				<TOKEN end_char="875" id="token-6-30" start_char="870">damage</TOKEN>
+				<TOKEN end_char="878" id="token-6-31" start_char="877">to</TOKEN>
+				<TOKEN end_char="885" id="token-6-32" start_char="880">public</TOKEN>
+				<TOKEN end_char="894" id="token-6-33" start_char="887">property</TOKEN>
+				<TOKEN end_char="898" id="token-6-34" start_char="896">and</TOKEN>
+				<TOKEN end_char="902" id="token-6-35" start_char="900">use</TOKEN>
+				<TOKEN end_char="905" id="token-6-36" start_char="904">of</TOKEN>
+				<TOKEN end_char="907" id="token-6-37" start_char="907">a</TOKEN>
+				<TOKEN end_char="915" id="token-6-38" start_char="909">firearm</TOKEN>
+				<TOKEN end_char="918" id="token-6-39" start_char="917">in</TOKEN>
+				<TOKEN end_char="929" id="token-6-40" start_char="920">commission</TOKEN>
+				<TOKEN end_char="932" id="token-6-41" start_char="931">of</TOKEN>
+				<TOKEN end_char="934" id="token-6-42" start_char="934">a</TOKEN>
+				<TOKEN end_char="941" id="token-6-43" start_char="936">felony</TOKEN>
+				<TOKEN end_char="942" id="token-6-44" start_char="942">,</TOKEN>
+				<TOKEN end_char="949" id="token-6-45" start_char="944">police</TOKEN>
+				<TOKEN end_char="954" id="token-6-46" start_char="951">said</TOKEN>
+				<TOKEN end_char="955" id="token-6-47" start_char="955">.</TOKEN>
+			</SEG>
+			<SEG end_char="1006" id="20130520_WAPO_83284c58-c187-11e2-bfdb-3886a561c1ff-7" start_char="957">
+				<ORIGINAL_TEXT>Police declined to give a motive for the incident.</ORIGINAL_TEXT>
+				<TOKEN end_char="962" id="token-7-0" start_char="957">Police</TOKEN>
+				<TOKEN end_char="971" id="token-7-1" start_char="964">declined</TOKEN>
+				<TOKEN end_char="974" id="token-7-2" start_char="973">to</TOKEN>
+				<TOKEN end_char="979" id="token-7-3" start_char="976">give</TOKEN>
+				<TOKEN end_char="981" id="token-7-4" start_char="981">a</TOKEN>
+				<TOKEN end_char="988" id="token-7-5" start_char="983">motive</TOKEN>
+				<TOKEN end_char="992" id="token-7-6" start_char="990">for</TOKEN>
+				<TOKEN end_char="996" id="token-7-7" start_char="994">the</TOKEN>
+				<TOKEN end_char="1005" id="token-7-8" start_char="998">incident</TOKEN>
+				<TOKEN end_char="1006" id="token-7-9" start_char="1006">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>
